@@ -1,0 +1,27 @@
+outcome,subgroup,model,trend,bench_2040,reproduced_2040,diff_2040,bench_aicc,reproduced_aicc,bench_rmse,reproduced_rmse
+Liver Metastasis,Both,"ARIMA(3,0,0)",Mean,2.33066429216165,2.775,0.444,-31.67,-63.77,0.101,0.059
+Liver Metastasis,Female,"ARIMA(2,0,1)",Mean,1.5731741870661,2.246,0.673,-38.77,-70.09,0.114,0.063
+Liver Metastasis,Male,"ARIMA(2,0,2)",None,3.51060324386802,3.18,0.33,-19.32,-25.1,0.203,0.121
+Liver Metastasis,NH White,"ARIMA(2,0,1)",Mean,2.03601168097327,2.709,0.673,-39.64,-61.54,0.118,0.071
+Liver Metastasis,NH Black,"ARIMA(0,2,4)",None,2.22310022343435,4.394,2.171,10.26,-60.1,0.19,0.012
+Liver Metastasis,35-44 years,"ARIMA(0,2,3)",None,1.25531958797743,1.419,0.164,-81.68,-167.27,0.036,0.003
+Liver Metastasis,45-54 years,"ARIMA(1,2,1)",None,3.41314307170965,3.784,0.371,-24.22,-76.58,0.163,0.059
+Liver Metastasis,55-64 years,"ARIMA(2,0,1)",Mean,2.34377039981474,2.982,0.638,0.82,-35.1,0.256,0.13
+Liver Metastasis,65-74 years,"ARIMA(0,2,1)",None,6.23926054978775,6.613,0.374,23.55,-22.45,0.299,0.162
+Liver Metastasis,75-84 years,"ARIMA(2,2,0)",None,9.8448233886142,10.446,0.601,41.59,-16.12,0.473,0.002
+Liver Metastasis,85+ years,"ARIMA(0,2,2)",None,17.7317122633676,19.543,1.811,57.41,-7.46,0.825,0.011
+Liver Metastasis,South,"ARIMA(4,0,0)",Mean,2.28662401126853,2.468,0.181,-7.02,-60.57,0.147,0.048
+Liver Metastasis,Northeast,"ARIMA(0,2,1)",None,2.07621994275252,1.681,0.395,-28.91,-90.81,0.088,0.001
+Lung Metastasis,Both,"ARIMA(0,2,1)",None,2.1820345098753,2.047,0.135,-64.3,-100.75,0.06,0.034
+Lung Metastasis,Female,"ARIMA(1,2,0)",None,0.988084300979174,1.564,0.576,-53.71,-96.34,0.086,0.04
+Lung Metastasis,Male,"ARIMA(3,0,1)",Mean,1.51590081392596,1.612,0.097,-56.8,-99.25,0.064,0.028
+Lung Metastasis,NH White,"ARIMA(0,2,1)",None,2.52486162276595,2.372,0.153,-66.39,-103.53,0.067,0.031
+Lung Metastasis,NH Black,"ARIMA(1,0,0)",Mean,1.521571989071,1.642,0.121,-34.39,-80.6,0.106,0.029
+Lung Metastasis,35-44 years,"ARIMA(1,1,0)",Drift,0.522262904594492,0.702,0.18,-106.87,-212.82,0.031,0.002
+Lung Metastasis,45-54 years,"ARIMA(0,2,1)",None,2.1843339672999,2.254,0.07,-61.49,-111.49,0.079,0.028
+Lung Metastasis,55-64 years,"ARIMA(0,1,0)",None,2.181371039,2.18,0.001,-25.37,-50.35,0.173,0.117
+Lung Metastasis,65-74 years,"ARIMA(1,0,0)",Mean,3.26183111358613,3.311,0.05,-7.76,-27.48,0.201,0.126
+Lung Metastasis,75-84 years,"ARIMA(1,2,1)",None,5.23081971884146,6.121,0.891,20.07,-66.45,0.383,0.006
+Lung Metastasis,85+ years,"ARIMA(1,0,0)",Mean,7.13767058164906,7.733,0.595,40.18,3.52,0.483,0.19
+Lung Metastasis,South,"ARIMA(0,2,1)",None,2.51774052543883,2.475,0.042,-53.21,-91.15,0.069,0.044
+Lung Metastasis,Northeast,"ARIMA(0,1,0)",Drift,0.518923282945642,0.526,0.007,-59.62,-99.7,0.064,0.034

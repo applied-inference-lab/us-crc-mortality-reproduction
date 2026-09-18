@@ -1,0 +1,443 @@
+outcome,subgroup,year,point_forecast,lower_95_ci,upper_95_ci
+Liver Metastasis,Both,2024,2.5695,2.481,2.6581
+Liver Metastasis,Both,2025,2.6367,2.4464,2.827
+Liver Metastasis,Both,2026,2.6999,2.3938,3.006
+Liver Metastasis,Both,2027,2.7576,2.3283,3.1869
+Liver Metastasis,Both,2028,2.8085,2.2541,3.363
+Liver Metastasis,Both,2029,2.8517,2.1744,3.5289
+Liver Metastasis,Both,2030,2.8862,2.0923,3.6802
+Liver Metastasis,Both,2031,2.9118,2.01,3.8135
+Liver Metastasis,Both,2032,2.928,1.9297,3.9264
+Liver Metastasis,Both,2033,2.9351,1.8528,4.0173
+Liver Metastasis,Both,2034,2.9332,1.7806,4.0858
+Liver Metastasis,Both,2035,2.9229,1.7137,4.132
+Liver Metastasis,Both,2036,2.9048,1.6523,4.1573
+Liver Metastasis,Both,2037,2.8799,1.5964,4.1634
+Liver Metastasis,Both,2038,2.8492,1.5453,4.153
+Liver Metastasis,Both,2039,2.8138,1.4982,4.1293
+Liver Metastasis,Both,2040,2.7748,1.454,4.0957
+Liver Metastasis,Female,2024,2.0001,1.9215,2.0787
+Liver Metastasis,Female,2025,2.0498,1.8812,2.2184
+Liver Metastasis,Female,2026,2.0979,1.8275,2.3683
+Liver Metastasis,Female,2027,2.1432,1.7652,2.5212
+Liver Metastasis,Female,2028,2.1846,1.6979,2.6714
+Liver Metastasis,Female,2029,2.2214,1.6286,2.8141
+Liver Metastasis,Female,2030,2.2527,1.5597,2.9458
+Liver Metastasis,Female,2031,2.2782,1.493,3.0634
+Liver Metastasis,Female,2032,2.2975,1.4301,3.1648
+Liver Metastasis,Female,2033,2.3104,1.372,3.2489
+Liver Metastasis,Female,2034,2.3171,1.3192,3.3149
+Liver Metastasis,Female,2035,2.3177,1.2721,3.3632
+Liver Metastasis,Female,2036,2.3126,1.2305,3.3946
+Liver Metastasis,Female,2037,2.3023,1.1939,3.4106
+Liver Metastasis,Female,2038,2.2873,1.1616,3.413
+Liver Metastasis,Female,2039,2.2685,1.1326,3.4043
+Liver Metastasis,Female,2040,2.2464,1.1057,3.3871
+Liver Metastasis,Male,2024,3.2408,3.059,3.4226
+Liver Metastasis,Male,2025,3.2847,2.8381,3.7313
+Liver Metastasis,Male,2026,3.2566,2.604,3.9091
+Liver Metastasis,Male,2027,3.2604,2.4708,4.0499
+Liver Metastasis,Male,2028,3.2501,2.3377,4.1624
+Liver Metastasis,Male,2029,3.246,2.2285,4.2635
+Liver Metastasis,Male,2030,3.2392,2.1258,4.3526
+Liver Metastasis,Male,2031,3.2336,2.0326,4.4346
+Liver Metastasis,Male,2032,3.2275,1.945,4.51
+Liver Metastasis,Male,2033,3.2217,1.8629,4.5804
+Liver Metastasis,Male,2034,3.2157,1.785,4.6465
+Liver Metastasis,Male,2035,3.2098,1.7108,4.7088
+Liver Metastasis,Male,2036,3.2039,1.6398,4.768
+Liver Metastasis,Male,2037,3.198,1.5717,4.8244
+Liver Metastasis,Male,2038,3.1922,1.5061,4.8782
+Liver Metastasis,Male,2039,3.1863,1.4428,4.9298
+Liver Metastasis,Male,2040,3.1804,1.3815,4.9794
+Liver Metastasis,NH White,2024,2.6683,2.5754,2.7612
+Liver Metastasis,NH White,2025,2.7499,2.5513,2.9485
+Liver Metastasis,NH White,2026,2.8229,2.5045,3.1413
+Liver Metastasis,NH White,2027,2.8857,2.4403,3.331
+Liver Metastasis,NH White,2028,2.9371,2.3633,3.5109
+Liver Metastasis,NH White,2029,2.9763,2.2771,3.6755
+Liver Metastasis,NH White,2030,3.0028,2.185,3.8206
+Liver Metastasis,NH White,2031,3.0167,2.0901,3.9432
+Liver Metastasis,NH White,2032,3.0181,1.9948,4.0414
+Liver Metastasis,NH White,2033,3.0078,1.9013,4.1144
+Liver Metastasis,NH White,2034,2.9867,1.8111,4.1623
+Liver Metastasis,NH White,2035,2.9558,1.7255,4.1862
+Liver Metastasis,NH White,2036,2.9167,1.6453,4.1881
+Liver Metastasis,NH White,2037,2.8708,1.5706,4.171
+Liver Metastasis,NH White,2038,2.8197,1.5014,4.1381
+Liver Metastasis,NH White,2039,2.7652,1.4371,4.0934
+Liver Metastasis,NH White,2040,2.709,1.3769,4.0411
+Liver Metastasis,NH Black,2024,3.1474,3.0486,3.2462
+Liver Metastasis,NH Black,2025,3.2251,2.9955,3.4548
+Liver Metastasis,NH Black,2026,3.3031,2.9052,3.7009
+Liver Metastasis,NH Black,2027,3.381,2.7808,3.9813
+Liver Metastasis,NH Black,2028,3.459,2.6239,4.2941
+Liver Metastasis,NH Black,2029,3.5369,2.4397,4.6342
+Liver Metastasis,NH Black,2030,3.6149,2.2313,4.9985
+Liver Metastasis,NH Black,2031,3.6929,2.0008,5.385
+Liver Metastasis,NH Black,2032,3.7708,1.7497,5.7919
+Liver Metastasis,NH Black,2033,3.8488,1.4795,6.218
+Liver Metastasis,NH Black,2034,3.9267,1.1911,6.6624
+Liver Metastasis,NH Black,2035,4.0047,0.8854,7.124
+Liver Metastasis,NH Black,2036,4.0827,0.5632,7.6021
+Liver Metastasis,NH Black,2037,4.1606,0.2252,8.096
+Liver Metastasis,NH Black,2038,4.2386,-0.1281,8.6053
+Liver Metastasis,NH Black,2039,4.3165,-0.4962,9.1292
+Liver Metastasis,NH Black,2040,4.3945,-0.8785,9.6675
+Liver Metastasis,35-44 years,2024,0.6666,0.6564,0.6769
+Liver Metastasis,35-44 years,2025,0.7137,0.6901,0.7372
+Liver Metastasis,35-44 years,2026,0.7607,0.7198,0.8015
+Liver Metastasis,35-44 years,2027,0.8077,0.7463,0.8691
+Liver Metastasis,35-44 years,2028,0.8547,0.7702,0.9392
+Liver Metastasis,35-44 years,2029,0.9017,0.7917,1.0118
+Liver Metastasis,35-44 years,2030,0.9488,0.8111,1.0864
+Liver Metastasis,35-44 years,2031,0.9958,0.8284,1.1631
+Liver Metastasis,35-44 years,2032,1.0428,0.8439,1.2417
+Liver Metastasis,35-44 years,2033,1.0898,0.8577,1.322
+Liver Metastasis,35-44 years,2034,1.1369,0.8697,1.404
+Liver Metastasis,35-44 years,2035,1.1839,0.8802,1.4876
+Liver Metastasis,35-44 years,2036,1.2309,0.8891,1.5727
+Liver Metastasis,35-44 years,2037,1.2779,0.8966,1.6593
+Liver Metastasis,35-44 years,2038,1.3249,0.9026,1.7473
+Liver Metastasis,35-44 years,2039,1.372,0.9073,1.8367
+Liver Metastasis,35-44 years,2040,1.419,0.9106,1.9274
+Liver Metastasis,45-54 years,2024,2.0861,2.0083,2.1639
+Liver Metastasis,45-54 years,2025,2.1922,2.0169,2.3675
+Liver Metastasis,45-54 years,2026,2.2983,2.0041,2.5926
+Liver Metastasis,45-54 years,2027,2.4044,1.9729,2.8359
+Liver Metastasis,45-54 years,2028,2.5105,1.9256,3.0954
+Liver Metastasis,45-54 years,2029,2.6167,1.8637,3.3696
+Liver Metastasis,45-54 years,2030,2.7228,1.7883,3.6572
+Liver Metastasis,45-54 years,2031,2.8289,1.7004,3.9573
+Liver Metastasis,45-54 years,2032,2.935,1.6007,4.2692
+Liver Metastasis,45-54 years,2033,3.0411,1.4899,4.5923
+Liver Metastasis,45-54 years,2034,3.1472,1.3685,4.9259
+Liver Metastasis,45-54 years,2035,3.2533,1.237,5.2697
+Liver Metastasis,45-54 years,2036,3.3594,1.0957,5.6231
+Liver Metastasis,45-54 years,2037,3.4655,0.9451,5.9859
+Liver Metastasis,45-54 years,2038,3.5716,0.7855,6.3578
+Liver Metastasis,45-54 years,2039,3.6777,0.6172,6.7383
+Liver Metastasis,45-54 years,2040,3.7839,0.4404,7.1273
+Liver Metastasis,55-64 years,2024,3.8036,3.641,3.9662
+Liver Metastasis,55-64 years,2025,3.8645,3.5231,4.206
+Liver Metastasis,55-64 years,2026,3.8935,3.3588,4.4282
+Liver Metastasis,55-64 years,2027,3.8925,3.1643,4.6207
+Liver Metastasis,55-64 years,2028,3.8646,2.953,4.7762
+Liver Metastasis,55-64 years,2029,3.8136,2.7363,4.8909
+Liver Metastasis,55-64 years,2030,3.744,2.5238,4.9642
+Liver Metastasis,55-64 years,2031,3.6606,2.3228,4.9984
+Liver Metastasis,55-64 years,2032,3.5682,2.1389,4.9975
+Liver Metastasis,55-64 years,2033,3.4716,1.9757,4.9675
+Liver Metastasis,55-64 years,2034,3.3752,1.8348,4.9156
+Liver Metastasis,55-64 years,2035,3.2831,1.7164,4.8498
+Liver Metastasis,55-64 years,2036,3.1987,1.6192,4.7781
+Liver Metastasis,55-64 years,2037,3.1246,1.541,4.7082
+Liver Metastasis,55-64 years,2038,3.0631,1.4791,4.647
+Liver Metastasis,55-64 years,2039,3.0153,1.4308,4.5998
+Liver Metastasis,55-64 years,2040,2.982,1.3939,4.5701
+Liver Metastasis,65-74 years,2024,5.3961,5.1302,5.6619
+Liver Metastasis,65-74 years,2025,5.4721,4.86,6.0843
+Liver Metastasis,65-74 years,2026,5.5482,4.5113,6.5851
+Liver Metastasis,65-74 years,2027,5.6243,4.0961,7.1524
+Liver Metastasis,65-74 years,2028,5.7003,3.6224,7.7783
+Liver Metastasis,65-74 years,2029,5.7764,3.0957,8.4571
+Liver Metastasis,65-74 years,2030,5.8525,2.5204,9.1846
+Liver Metastasis,65-74 years,2031,5.9286,1.8997,9.9575
+Liver Metastasis,65-74 years,2032,6.0046,1.2364,10.7728
+Liver Metastasis,65-74 years,2033,6.0807,0.5329,11.6285
+Liver Metastasis,65-74 years,2034,6.1568,-0.2088,12.5223
+Liver Metastasis,65-74 years,2035,6.2328,-0.9871,13.4528
+Liver Metastasis,65-74 years,2036,6.3089,-1.8005,14.4183
+Liver Metastasis,65-74 years,2037,6.385,-2.6475,15.4175
+Liver Metastasis,65-74 years,2038,6.461,-3.5272,16.4493
+Liver Metastasis,65-74 years,2039,6.5371,-4.4383,17.5125
+Liver Metastasis,65-74 years,2040,6.6132,-5.3798,18.6062
+Liver Metastasis,75-84 years,2024,8.2187,7.9293,8.508
+Liver Metastasis,75-84 years,2025,8.3576,7.6752,9.0401
+Liver Metastasis,75-84 years,2026,8.4968,7.2953,9.6982
+Liver Metastasis,75-84 years,2027,8.636,6.8136,10.4583
+Liver Metastasis,75-84 years,2028,8.7752,6.2428,11.3075
+Liver Metastasis,75-84 years,2029,8.9144,5.5932,12.2356
+Liver Metastasis,75-84 years,2030,9.0536,4.8722,13.235
+Liver Metastasis,75-84 years,2031,9.1928,4.0856,14.3001
+Liver Metastasis,75-84 years,2032,9.3321,3.2379,15.4262
+Liver Metastasis,75-84 years,2033,9.4713,2.333,16.6096
+Liver Metastasis,75-84 years,2034,9.6105,1.3737,17.8473
+Liver Metastasis,75-84 years,2035,9.7497,0.3629,19.1366
+Liver Metastasis,75-84 years,2036,9.889,-0.6973,20.4752
+Liver Metastasis,75-84 years,2037,10.0282,-1.8048,21.8612
+Liver Metastasis,75-84 years,2038,10.1674,-2.9579,23.2927
+Liver Metastasis,75-84 years,2039,10.3067,-4.155,24.7683
+Liver Metastasis,75-84 years,2040,10.4459,-5.3947,26.2865
+Liver Metastasis,85+ years,2024,13.0925,12.7428,13.4421
+Liver Metastasis,85+ years,2025,13.4956,12.691,14.3002
+Liver Metastasis,85+ years,2026,13.8988,12.5175,15.2801
+Liver Metastasis,85+ years,2027,14.3019,12.2473,16.3565
+Liver Metastasis,85+ years,2028,14.7051,11.8936,17.5165
+Liver Metastasis,85+ years,2029,15.1082,11.4648,18.7516
+Liver Metastasis,85+ years,2030,15.5114,10.9674,20.0553
+Liver Metastasis,85+ years,2031,15.9145,10.4061,21.4229
+Liver Metastasis,85+ years,2032,16.3177,9.785,22.8503
+Liver Metastasis,85+ years,2033,16.7208,9.1075,24.3341
+Liver Metastasis,85+ years,2034,17.124,8.3762,25.8717
+Liver Metastasis,85+ years,2035,17.5271,7.5937,27.4605
+Liver Metastasis,85+ years,2036,17.9303,6.7621,29.0984
+Liver Metastasis,85+ years,2037,18.3334,5.8832,30.7836
+Liver Metastasis,85+ years,2038,18.7366,4.9588,32.5143
+Liver Metastasis,85+ years,2039,19.1397,3.9903,34.2891
+Liver Metastasis,85+ years,2040,19.5429,2.9792,36.1065
+Liver Metastasis,South,2024,2.9475,2.858,3.037
+Liver Metastasis,South,2025,3.0007,2.8146,3.1867
+Liver Metastasis,South,2026,3.0391,2.7497,3.3286
+Liver Metastasis,South,2027,3.062,2.6654,3.4585
+Liver Metastasis,South,2028,3.0691,2.5665,3.5717
+Liver Metastasis,South,2029,3.0609,2.4575,3.6643
+Liver Metastasis,South,2030,3.0384,2.343,3.7338
+Liver Metastasis,South,2031,3.003,2.2268,3.7792
+Liver Metastasis,South,2032,2.9565,2.1124,3.8006
+Liver Metastasis,South,2033,2.9011,2.0029,3.7993
+Liver Metastasis,South,2034,2.8392,1.9004,3.7779
+Liver Metastasis,South,2035,2.7732,1.8066,3.7397
+Liver Metastasis,South,2036,2.7057,1.7223,3.6891
+Liver Metastasis,South,2037,2.6392,1.6475,3.6309
+Liver Metastasis,South,2038,2.576,1.5816,3.5704
+Liver Metastasis,South,2039,2.5182,1.5237,3.5127
+Liver Metastasis,South,2040,2.4677,1.4725,3.4628
+Liver Metastasis,Northeast,2024,1.4448,1.3847,1.5049
+Liver Metastasis,Northeast,2025,1.4596,1.3152,1.6039
+Liver Metastasis,Northeast,2026,1.4743,1.2257,1.723
+Liver Metastasis,Northeast,2027,1.4891,1.1194,1.8588
+Liver Metastasis,Northeast,2028,1.5039,0.9984,2.0095
+Liver Metastasis,Northeast,2029,1.5187,0.864,2.1734
+Liver Metastasis,Northeast,2030,1.5335,0.7174,2.3495
+Liver Metastasis,Northeast,2031,1.5483,0.5595,2.537
+Liver Metastasis,Northeast,2032,1.563,0.3909,2.7352
+Liver Metastasis,Northeast,2033,1.5778,0.2122,2.9434
+Liver Metastasis,Northeast,2034,1.5926,0.024,3.1612
+Liver Metastasis,Northeast,2035,1.6074,-0.1734,3.3882
+Liver Metastasis,Northeast,2036,1.6222,-0.3796,3.6239
+Liver Metastasis,Northeast,2037,1.6369,-0.5942,3.8681
+Liver Metastasis,Northeast,2038,1.6517,-0.817,4.1204
+Liver Metastasis,Northeast,2039,1.6665,-1.0476,4.3806
+Liver Metastasis,Northeast,2040,1.6813,-1.2858,4.6484
+Lung Metastasis,Both,2024,1.551,1.5026,1.5995
+Lung Metastasis,Both,2025,1.582,1.4734,1.6906
+Lung Metastasis,Both,2026,1.613,1.431,1.795
+Lung Metastasis,Both,2027,1.644,1.3775,1.9106
+Lung Metastasis,Both,2028,1.675,1.314,2.0361
+Lung Metastasis,Both,2029,1.706,1.2415,2.1706
+Lung Metastasis,Both,2030,1.737,1.1607,2.3134
+Lung Metastasis,Both,2031,1.7681,1.0722,2.4639
+Lung Metastasis,Both,2032,1.7991,0.9765,2.6216
+Lung Metastasis,Both,2033,1.8301,0.8739,2.7862
+Lung Metastasis,Both,2034,1.8611,0.7648,2.9573
+Lung Metastasis,Both,2035,1.8921,0.6495,3.1346
+Lung Metastasis,Both,2036,1.9231,0.5282,3.3179
+Lung Metastasis,Both,2037,1.9541,0.4012,3.507
+Lung Metastasis,Both,2038,1.9851,0.2686,3.7016
+Lung Metastasis,Both,2039,2.0161,0.1307,3.9015
+Lung Metastasis,Both,2040,2.0471,-0.0125,4.1067
+Lung Metastasis,Female,2024,1.212,1.1587,1.2654
+Lung Metastasis,Female,2025,1.234,1.1139,1.3542
+Lung Metastasis,Female,2026,1.2561,1.0543,1.4578
+Lung Metastasis,Female,2027,1.2781,0.9822,1.574
+Lung Metastasis,Female,2028,1.3001,0.899,1.7012
+Lung Metastasis,Female,2029,1.3221,0.8058,1.8385
+Lung Metastasis,Female,2030,1.3441,0.7033,1.985
+Lung Metastasis,Female,2031,1.3662,0.5922,2.1401
+Lung Metastasis,Female,2032,1.3882,0.4731,2.3033
+Lung Metastasis,Female,2033,1.4102,0.3463,2.4741
+Lung Metastasis,Female,2034,1.4322,0.2122,2.6522
+Lung Metastasis,Female,2035,1.4542,0.0712,2.8372
+Lung Metastasis,Female,2036,1.4763,-0.0764,3.029
+Lung Metastasis,Female,2037,1.4983,-0.2305,3.2271
+Lung Metastasis,Female,2038,1.5203,-0.3908,3.4314
+Lung Metastasis,Female,2039,1.5423,-0.557,3.6416
+Lung Metastasis,Female,2040,1.5643,-0.7291,3.8577
+Lung Metastasis,Male,2024,1.8886,1.8472,1.9301
+Lung Metastasis,Male,2025,1.906,1.8129,1.9992
+Lung Metastasis,Male,2026,1.9157,1.7678,2.0635
+Lung Metastasis,Male,2027,1.9158,1.7106,2.1209
+Lung Metastasis,Male,2028,1.9086,1.6483,2.1689
+Lung Metastasis,Male,2029,1.894,1.5818,2.2062
+Lung Metastasis,Male,2030,1.8739,1.5152,2.2326
+Lung Metastasis,Male,2031,1.849,1.45,2.248
+Lung Metastasis,Male,2032,1.8209,1.3886,2.2533
+Lung Metastasis,Male,2033,1.7907,1.3319,2.2495
+Lung Metastasis,Male,2034,1.7597,1.2812,2.2382
+Lung Metastasis,Male,2035,1.7291,1.2368,2.2213
+Lung Metastasis,Male,2036,1.6998,1.199,2.2006
+Lung Metastasis,Male,2037,1.6729,1.1674,2.1783
+Lung Metastasis,Male,2038,1.649,1.1416,2.1563
+Lung Metastasis,Male,2039,1.6287,1.1209,2.1364
+Lung Metastasis,Male,2040,1.6124,1.1046,2.1202
+Lung Metastasis,NH White,2024,1.636,1.5904,1.6816
+Lung Metastasis,NH White,2025,1.682,1.5797,1.7843
+Lung Metastasis,NH White,2026,1.728,1.5566,1.8994
+Lung Metastasis,NH White,2027,1.774,1.5229,2.0251
+Lung Metastasis,NH White,2028,1.82,1.4799,2.1602
+Lung Metastasis,NH White,2029,1.866,1.4284,2.3037
+Lung Metastasis,NH White,2030,1.9121,1.3691,2.455
+Lung Metastasis,NH White,2031,1.9581,1.3025,2.6136
+Lung Metastasis,NH White,2032,2.0041,1.2292,2.779
+Lung Metastasis,NH White,2033,2.0501,1.1493,2.9508
+Lung Metastasis,NH White,2034,2.0961,1.0633,3.1288
+Lung Metastasis,NH White,2035,2.1421,0.9715,3.3127
+Lung Metastasis,NH White,2036,2.1881,0.874,3.5022
+Lung Metastasis,NH White,2037,2.2341,0.7711,3.6971
+Lung Metastasis,NH White,2038,2.2801,0.663,3.8972
+Lung Metastasis,NH White,2039,2.3261,0.5498,4.1024
+Lung Metastasis,NH White,2040,2.3721,0.4318,4.3125
+Lung Metastasis,NH Black,2024,1.6494,1.571,1.7279
+Lung Metastasis,NH Black,2025,1.6489,1.5396,1.7581
+Lung Metastasis,NH Black,2026,1.6483,1.5165,1.7801
+Lung Metastasis,NH Black,2027,1.6478,1.4979,1.7977
+Lung Metastasis,NH Black,2028,1.6473,1.4822,1.8124
+Lung Metastasis,NH Black,2029,1.6468,1.4686,1.825
+Lung Metastasis,NH Black,2030,1.6463,1.4566,1.836
+Lung Metastasis,NH Black,2031,1.6459,1.446,1.8457
+Lung Metastasis,NH Black,2032,1.6454,1.4364,1.8544
+Lung Metastasis,NH Black,2033,1.645,1.4278,1.8622
+Lung Metastasis,NH Black,2034,1.6446,1.4199,1.8692
+Lung Metastasis,NH Black,2035,1.6441,1.4128,1.8755
+Lung Metastasis,NH Black,2036,1.6438,1.4062,1.8813
+Lung Metastasis,NH Black,2037,1.6434,1.4002,1.8866
+Lung Metastasis,NH Black,2038,1.643,1.3946,1.8914
+Lung Metastasis,NH Black,2039,1.6426,1.3895,1.8958
+Lung Metastasis,NH Black,2040,1.6423,1.3847,1.8999
+Lung Metastasis,35-44 years,2024,0.3727,0.3681,0.3773
+Lung Metastasis,35-44 years,2025,0.3951,0.385,0.4053
+Lung Metastasis,35-44 years,2026,0.4173,0.4004,0.4342
+Lung Metastasis,35-44 years,2027,0.4392,0.4147,0.4638
+Lung Metastasis,35-44 years,2028,0.4608,0.4279,0.4938
+Lung Metastasis,35-44 years,2029,0.4822,0.4401,0.5243
+Lung Metastasis,35-44 years,2030,0.5033,0.4515,0.5551
+Lung Metastasis,35-44 years,2031,0.5242,0.4622,0.5863
+Lung Metastasis,35-44 years,2032,0.5449,0.4721,0.6176
+Lung Metastasis,35-44 years,2033,0.5653,0.4814,0.6492
+Lung Metastasis,35-44 years,2034,0.5854,0.49,0.6809
+Lung Metastasis,35-44 years,2035,0.6054,0.498,0.7127
+Lung Metastasis,35-44 years,2036,0.6251,0.5055,0.7447
+Lung Metastasis,35-44 years,2037,0.6446,0.5125,0.7767
+Lung Metastasis,35-44 years,2038,0.6639,0.519,0.8088
+Lung Metastasis,35-44 years,2039,0.683,0.525,0.841
+Lung Metastasis,35-44 years,2040,0.7019,0.5306,0.8732
+Lung Metastasis,45-54 years,2024,1.262,1.2237,1.3004
+Lung Metastasis,45-54 years,2025,1.324,1.238,1.4101
+Lung Metastasis,45-54 years,2026,1.3861,1.242,1.5302
+Lung Metastasis,45-54 years,2027,1.4481,1.237,1.6592
+Lung Metastasis,45-54 years,2028,1.5101,1.2242,1.796
+Lung Metastasis,45-54 years,2029,1.5721,1.2042,1.94
+Lung Metastasis,45-54 years,2030,1.6341,1.1777,2.0906
+Lung Metastasis,45-54 years,2031,1.6962,1.1451,2.2472
+Lung Metastasis,45-54 years,2032,1.7582,1.1068,2.4096
+Lung Metastasis,45-54 years,2033,1.8202,1.063,2.5774
+Lung Metastasis,45-54 years,2034,1.8822,1.0141,2.7504
+Lung Metastasis,45-54 years,2035,1.9442,0.9602,2.9283
+Lung Metastasis,45-54 years,2036,2.0063,0.9017,3.1109
+Lung Metastasis,45-54 years,2037,2.0683,0.8385,3.2981
+Lung Metastasis,45-54 years,2038,2.1303,0.771,3.4896
+Lung Metastasis,45-54 years,2039,2.1923,0.6992,3.6855
+Lung Metastasis,45-54 years,2040,2.2544,0.6233,3.8854
+Lung Metastasis,55-64 years,2024,2.18,2.0206,2.3394
+Lung Metastasis,55-64 years,2025,2.18,1.9546,2.4054
+Lung Metastasis,55-64 years,2026,2.18,1.904,2.456
+Lung Metastasis,55-64 years,2027,2.18,1.8613,2.4987
+Lung Metastasis,55-64 years,2028,2.18,1.8237,2.5363
+Lung Metastasis,55-64 years,2029,2.18,1.7897,2.5703
+Lung Metastasis,55-64 years,2030,2.18,1.7584,2.6016
+Lung Metastasis,55-64 years,2031,2.18,1.7293,2.6307
+Lung Metastasis,55-64 years,2032,2.18,1.7019,2.6581
+Lung Metastasis,55-64 years,2033,2.18,1.6761,2.6839
+Lung Metastasis,55-64 years,2034,2.18,1.6515,2.7085
+Lung Metastasis,55-64 years,2035,2.18,1.628,2.732
+Lung Metastasis,55-64 years,2036,2.18,1.6055,2.7545
+Lung Metastasis,55-64 years,2037,2.18,1.5838,2.7762
+Lung Metastasis,55-64 years,2038,2.18,1.5628,2.7972
+Lung Metastasis,55-64 years,2039,2.18,1.5426,2.8174
+Lung Metastasis,55-64 years,2040,2.18,1.523,2.837
+Lung Metastasis,65-74 years,2024,3.2825,3.0544,3.5105
+Lung Metastasis,65-74 years,2025,3.2849,2.9685,3.6012
+Lung Metastasis,65-74 years,2026,3.2872,2.907,3.6673
+Lung Metastasis,65-74 years,2027,3.2894,2.8586,3.7202
+Lung Metastasis,65-74 years,2028,3.2915,2.8187,3.7643
+Lung Metastasis,65-74 years,2029,3.2935,2.7849,3.8021
+Lung Metastasis,65-74 years,2030,3.2955,2.7559,3.8351
+Lung Metastasis,65-74 years,2031,3.2974,2.7307,3.8641
+Lung Metastasis,65-74 years,2032,3.2992,2.7085,3.8898
+Lung Metastasis,65-74 years,2033,3.3009,2.689,3.9129
+Lung Metastasis,65-74 years,2034,3.3026,2.6716,3.9336
+Lung Metastasis,65-74 years,2035,3.3042,2.6561,3.9524
+Lung Metastasis,65-74 years,2036,3.3058,2.6422,3.9694
+Lung Metastasis,65-74 years,2037,3.3073,2.6297,3.9848
+Lung Metastasis,65-74 years,2038,3.3087,2.6185,3.9989
+Lung Metastasis,65-74 years,2039,3.3101,2.6084,4.0118
+Lung Metastasis,65-74 years,2040,3.3114,2.5992,4.0235
+Lung Metastasis,75-84 years,2024,5.0364,4.9396,5.1332
+Lung Metastasis,75-84 years,2025,5.086,4.8659,5.3062
+Lung Metastasis,75-84 years,2026,5.1387,4.7647,5.5128
+Lung Metastasis,75-84 years,2027,5.1943,4.6388,5.7498
+Lung Metastasis,75-84 years,2028,5.2526,4.4901,6.0152
+Lung Metastasis,75-84 years,2029,5.3136,4.3197,6.3074
+Lung Metastasis,75-84 years,2030,5.377,4.1286,6.6254
+Lung Metastasis,75-84 years,2031,5.4427,3.9174,6.968
+Lung Metastasis,75-84 years,2032,5.5107,3.6867,7.3346
+Lung Metastasis,75-84 years,2033,5.5807,3.4369,7.7245
+Lung Metastasis,75-84 years,2034,5.6528,3.1685,8.137
+Lung Metastasis,75-84 years,2035,5.7267,2.8817,8.5717
+Lung Metastasis,75-84 years,2036,5.8024,2.5769,9.0279
+Lung Metastasis,75-84 years,2037,5.8798,2.2544,9.5053
+Lung Metastasis,75-84 years,2038,5.9589,1.9143,10.0034
+Lung Metastasis,75-84 years,2039,6.0394,1.557,10.5219
+Lung Metastasis,75-84 years,2040,6.1214,1.1826,11.0602
+Lung Metastasis,85+ years,2024,7.8413,7.4192,8.2634
+Lung Metastasis,85+ years,2025,7.8328,7.245,8.4206
+Lung Metastasis,85+ years,2026,7.8246,7.1156,8.5336
+Lung Metastasis,85+ years,2027,7.8166,7.0102,8.623
+Lung Metastasis,85+ years,2028,7.8089,6.9207,8.6971
+Lung Metastasis,85+ years,2029,7.8014,6.8427,8.7602
+Lung Metastasis,85+ years,2030,7.7942,6.7737,8.8147
+Lung Metastasis,85+ years,2031,7.7872,6.7119,8.8625
+Lung Metastasis,85+ years,2032,7.7804,6.656,8.9048
+Lung Metastasis,85+ years,2033,7.7738,6.6052,8.9424
+Lung Metastasis,85+ years,2034,7.7674,6.5588,8.976
+Lung Metastasis,85+ years,2035,7.7612,6.5162,9.0063
+Lung Metastasis,85+ years,2036,7.7552,6.4769,9.0335
+Lung Metastasis,85+ years,2037,7.7494,6.4406,9.0582
+Lung Metastasis,85+ years,2038,7.7438,6.407,9.0805
+Lung Metastasis,85+ years,2039,7.7383,6.3758,9.1009
+Lung Metastasis,85+ years,2040,7.733,6.3467,9.1193
+Lung Metastasis,South,2024,1.755,1.6953,1.8147
+Lung Metastasis,South,2025,1.8,1.6659,1.9342
+Lung Metastasis,South,2026,1.8451,1.6202,2.0699
+Lung Metastasis,South,2027,1.8901,1.5606,2.2196
+Lung Metastasis,South,2028,1.9351,1.4886,2.3816
+Lung Metastasis,South,2029,1.9801,1.4055,2.5547
+Lung Metastasis,South,2030,2.0252,1.3122,2.7381
+Lung Metastasis,South,2031,2.0702,1.2093,2.931
+Lung Metastasis,South,2032,2.1152,1.0975,3.1329
+Lung Metastasis,South,2033,2.1602,0.9771,3.3433
+Lung Metastasis,South,2034,2.2053,0.8487,3.5618
+Lung Metastasis,South,2035,2.2503,0.7126,3.7879
+Lung Metastasis,South,2036,2.2953,0.5691,4.0215
+Lung Metastasis,South,2037,2.3403,0.4185,4.2622
+Lung Metastasis,South,2038,2.3853,0.261,4.5097
+Lung Metastasis,South,2039,2.4304,0.0969,4.7639
+Lung Metastasis,South,2040,2.4754,-0.0737,5.0245
+Lung Metastasis,Northeast,2024,0.8592,0.8047,0.9136
+Lung Metastasis,Northeast,2025,0.8383,0.7613,0.9153
+Lung Metastasis,Northeast,2026,0.8175,0.7232,0.9118
+Lung Metastasis,Northeast,2027,0.7966,0.6877,0.9056
+Lung Metastasis,Northeast,2028,0.7758,0.654,0.8976
+Lung Metastasis,Northeast,2029,0.755,0.6216,0.8884
+Lung Metastasis,Northeast,2030,0.7341,0.59,0.8782
+Lung Metastasis,Northeast,2031,0.7133,0.5593,0.8673
+Lung Metastasis,Northeast,2032,0.6925,0.5291,0.8558
+Lung Metastasis,Northeast,2033,0.6716,0.4994,0.8438
+Lung Metastasis,Northeast,2034,0.6508,0.4702,0.8314
+Lung Metastasis,Northeast,2035,0.6299,0.4413,0.8186
+Lung Metastasis,Northeast,2036,0.6091,0.4127,0.8055
+Lung Metastasis,Northeast,2037,0.5883,0.3845,0.792
+Lung Metastasis,Northeast,2038,0.5674,0.3565,0.7783
+Lung Metastasis,Northeast,2039,0.5466,0.3288,0.7644
+Lung Metastasis,Northeast,2040,0.5257,0.3012,0.7503

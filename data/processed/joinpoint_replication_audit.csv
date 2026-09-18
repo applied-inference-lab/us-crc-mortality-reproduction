@@ -1,0 +1,161 @@
+outcome,subgroup,segment,bench_apc,reproduced_apc,apc_diff,bench_p,reproduced_p
+Colorectal Cancer,Both,1999-2012,-2.77,-2.72,0.05,P<.001,0.0000
+Colorectal Cancer,Both,2012-2020,-1.79,-1.74,0.05,P<.001,0.0000
+Colorectal Cancer,Both,2020-2023,0.13,0.18,0.05,P=0.850,0.0000
+Liver Metastasis,Both,1999-2008,-7.89,-7.89,0.0,P<.001,0.0000
+Liver Metastasis,Both,2008-2013,-0.21,-0.21,0.0,P=0.663,0.0000
+Liver Metastasis,Both,2013-2016,9.31,9.31,0.0,P<.001,0.0000
+Liver Metastasis,Both,2016-2023,2.89,2.89,0.0,P=0.002,0.0000
+Lung Metastasis,Both,1999-2008,-3.8,-3.8,0.0,P=0.002,0.0000
+Lung Metastasis,Both,2008-2014,1.4,1.39,0.01,P=0.154,0.0000
+Lung Metastasis,Both,2014-2017,8.33,8.34,0.01,P<.001,0.0000
+Lung Metastasis,Both,2017-2023,2.08,2.07,0.01,P=0.013,0.0000
+Colorectal Cancer,Female,1999-2012,-2.8,-2.77,0.03,P=0.024,0.0000
+Colorectal Cancer,Female,2012-2020,-1.9,-1.87,0.03,P=0.004,0.0000
+Colorectal Cancer,Female,2020-2023,0.32,0.36,0.04,P=0.755,0.0000
+Liver Metastasis,Female,1999-2008,-7.65,-7.79,0.14,P<.001,0.0000
+Liver Metastasis,Female,2008-2013,-1.31,-1.46,0.15,P=0.193,0.0000
+Liver Metastasis,Female,2013-2016,10.39,10.22,0.17,P<.001,0.0000
+Liver Metastasis,Female,2016-2023,2.74,2.58,0.16,P=0.004,0.0000
+Lung Metastasis,Female,1999-2006,-4.0,-3.91,0.09,P=0.002,0.0000
+Lung Metastasis,Female,2006-2014,-0.25,-0.16,0.09,P=0.691,0.0000
+Lung Metastasis,Female,2014-2017,11.36,11.47,0.11,P=0.007,0.0000
+Lung Metastasis,Female,2017-2023,1.77,1.87,0.1,P=0.070,0.0000
+Colorectal Cancer,Male,1999-2002,-2.0,-1.97,0.03,P=0.013,0.0000
+Colorectal Cancer,Male,2002-2005,-4.01,-3.98,0.03,P<.001,0.0000
+Colorectal Cancer,Male,2005-2013,-2.52,-2.49,0.03,P<.001,0.0000
+Colorectal Cancer,Male,2013-2019,-1.92,-1.89,0.03,P=0.002,0.0000
+Colorectal Cancer,Male,2019-2023,-0.44,-0.41,0.03,P=0.319,0.0000
+Liver Metastasis,Male,1999-2007,-8.49,-8.39,0.1,P<.001,0.0000
+Liver Metastasis,Male,2007-2013,-1.02,-0.91,0.11,P=0.116,0.0000
+Liver Metastasis,Male,2013-2016,9.02,9.13,0.11,P<.001,0.0000
+Liver Metastasis,Male,2016-2023,2.91,3.02,0.11,P<.001,0.0000
+Lung Metastasis,Male,1999-2008,-4.36,-4.4,0.04,P<.001,0.0000
+Lung Metastasis,Male,2008-2013,0.86,0.82,0.04,P=0.266,0.0000
+Lung Metastasis,Male,2013-2017,6.21,6.17,0.04,P<.001,0.0000
+Lung Metastasis,Male,2017-2023,1.97,1.92,0.05,P=0.001,0.0000
+Colorectal Cancer,Hispanic,1999-2019,-1.68,-0.38,1.3,P=0.001,0.1414
+Colorectal Cancer,Hispanic,2019-2023,0.43,0.57,0.14,P=0.456,0.2760
+Liver Metastasis,Hispanic,1999-2008,-5.59,-6.57,0.98,P=0.057,0.0000
+Liver Metastasis,Hispanic,2008-2020,4.06,4.43,0.37,P=0.165,0.0009
+Liver Metastasis,Hispanic,2020-2023,-1.34,-0.8,0.54,P=0.719,0.5314
+Lung Metastasis,Hispanic,1999-2004,-7.16,-7.38,0.22,P=0.040,0.0000
+Lung Metastasis,Hispanic,2004-2013,1.83,1.58,0.25,P=0.270,0.0000
+Lung Metastasis,Hispanic,2013-2016,14.01,13.72,0.29,P=0.104,0.0000
+Lung Metastasis,Hispanic,2016-2023,-0.08,-0.33,0.25,P=0.843,0.0000
+Colorectal Cancer,Hispanic,1999-2023,-0.92,-0.28,0.64,P<.001,0.1292
+Liver Metastasis,Hispanic,2010-2023,2.06,1.91,0.15,P=0.118,0.0159
+Colorectal Cancer,NH Asian,1999-2023,-1.68,-1.36,0.32,P<.001,0.0000
+Liver Metastasis,NH Asian,1999-2006,-9.58,-9.67,0.09,P<.001,0.0000
+Liver Metastasis,NH Asian,2006-2023,3.21,3.11,0.1,P<.001,0.0000
+Lung Metastasis,NH Asian,1999-2004,-6.44,-6.32,0.12,P=0.103,0.0000
+Lung Metastasis,NH Asian,2004-2023,2.88,3.02,0.14,P=0.005,0.0000
+Colorectal Cancer,NH Black,1999-2019,-2.72,-2.58,0.14,P=0.014,0.0000
+Colorectal Cancer,NH Black,2019-2023,-1.28,-1.14,0.14,P=0.222,0.0000
+Liver Metastasis,NH Black,1999-2009,-7.86,-7.83,0.03,P<.001,0.0000
+Liver Metastasis,NH Black,2009-2023,2.55,2.59,0.04,P<.001,0.0000
+Lung Metastasis,NH Black,1999-2009,-3.34,-3.45,0.11,P<.001,0.0000
+Lung Metastasis,NH Black,2009-2023,2.23,2.11,0.12,P<.001,0.0000
+Colorectal Cancer,NH White,1999-2011,-2.84,-2.79,0.05,P<.001,0.0000
+Colorectal Cancer,NH White,2011-2020,-1.66,-1.61,0.05,P<.001,0.0000
+Colorectal Cancer,NH White,2020-2023,0.86,0.91,0.05,P=0.213,0.0000
+Liver Metastasis,NH White,1999-2007,-8.23,-8.19,0.04,P<.001,0.0000
+Liver Metastasis,NH White,2007-2013,-1.59,-1.54,0.05,P=0.012,0.0000
+Liver Metastasis,NH White,2013-2016,10.2,10.25,0.05,P<.001,0.0000
+Liver Metastasis,NH White,2016-2023,3.67,3.72,0.05,P<.001,0.0000
+Lung Metastasis,NH White,1999-2009,-3.61,-3.46,0.15,P=0.004,0.0000
+Lung Metastasis,NH White,2009-2014,1.91,2.07,0.16,P=0.228,0.0000
+Lung Metastasis,NH White,2014-2017,8.55,8.73,0.18,P=0.002,0.0000
+Lung Metastasis,NH White,2017-2023,2.84,3.0,0.16,P=0.010,0.0000
+Colorectal Cancer,25-34 years,1999-2023,0.45,0.67,0.22,P=0.052,0.0000
+Colorectal Cancer,35-44 years,1999-2023,1.03,1.08,0.05,P<.001,0.0000
+Liver Metastasis,35-44 years,1999-2009,-3.12,-3.17,0.05,P=0.001,0.0000
+Liver Metastasis,35-44 years,2009-2023,8.08,8.04,0.04,P<.001,0.0000
+Lung Metastasis,35-44 years,1999-2007,0.11,-0.51,0.62,P=0.958,0.0000
+Lung Metastasis,35-44 years,2007-2023,7.89,7.19,0.7,P<.001,0.0000
+Colorectal Cancer,45-54 years,1999-2001,2.82,2.83,0.01,P=0.113,0.0002
+Colorectal Cancer,45-54 years,2001-2004,-4.02,-4.01,0.01,P=0.093,0.0000
+Colorectal Cancer,45-54 years,2004-2023,0.92,0.93,0.01,P=0.018,0.0000
+Liver Metastasis,45-54 years,1999-2006,-6.63,-6.4,0.23,P=0.013,0.0000
+Liver Metastasis,45-54 years,2006-2013,0.8,1.04,0.24,P=0.644,0.0000
+Liver Metastasis,45-54 years,2013-2016,16.26,16.56,0.3,P=0.012,0.0000
+Liver Metastasis,45-54 years,2016-2023,5.39,5.63,0.24,P=0.021,0.0000
+Lung Metastasis,45-54 years,1999-2005,-4.23,-4.03,0.2,P=0.032,0.0000
+Lung Metastasis,45-54 years,2005-2013,3.44,3.65,0.21,P=0.071,0.0000
+Lung Metastasis,45-54 years,2013-2017,14.69,14.93,0.24,P=0.013,0.0000
+Lung Metastasis,45-54 years,2017-2023,5.25,5.46,0.21,P=0.023,0.0000
+Colorectal Cancer,55-64 years,1999-2005,-3.6,-3.47,0.13,P=0.007,0.0000
+Colorectal Cancer,55-64 years,2005-2013,-1.37,-1.24,0.13,P=0.016,0.0000
+Colorectal Cancer,55-64 years,2013-2023,-0.15,-0.02,0.13,P=0.651,0.0000
+Liver Metastasis,55-64 years,1999-2006,-8.3,-8.2,0.1,P<.001,0.0000
+Liver Metastasis,55-64 years,2006-2013,-1.63,-1.53,0.1,P=0.160,0.0000
+Liver Metastasis,55-64 years,2013-2016,13.8,13.93,0.13,P<.001,0.0000
+Liver Metastasis,55-64 years,2016-2023,3.42,3.53,0.11,P=0.006,0.0000
+Lung Metastasis,55-64 years,1999-2006,-3.66,-3.98,0.32,P=0.036,0.0000
+Lung Metastasis,55-64 years,2006-2013,0.61,0.27,0.34,P=0.536,0.0000
+Lung Metastasis,55-64 years,2013-2016,14.41,14.01,0.4,P=0.055,0.0000
+Lung Metastasis,55-64 years,2016-2023,3.07,2.71,0.36,P=0.046,0.0000
+Colorectal Cancer,65-74 years,1999-2001,-0.96,-0.97,0.01,P=0.124,0.0001
+Colorectal Cancer,65-74 years,2001-2004,-4.98,-4.99,0.01,P<.001,0.0000
+Colorectal Cancer,65-74 years,2004-2014,-3.52,-3.53,0.01,P<.001,0.0000
+Colorectal Cancer,65-74 years,2014-2020,-2.04,-2.05,0.01,P<.001,0.0000
+Colorectal Cancer,65-74 years,2020-2023,0.05,0.04,0.01,P=0.894,0.0001
+Liver Metastasis,65-74 years,1999-2008,-9.33,-9.29,0.04,P<.001,0.0000
+Liver Metastasis,65-74 years,2008-2014,-0.68,-0.63,0.05,P=0.374,0.0000
+Liver Metastasis,65-74 years,2014-2017,9.22,9.27,0.05,P=0.011,0.0000
+Liver Metastasis,65-74 years,2017-2023,1.4,1.45,0.05,P=0.134,0.0000
+Lung Metastasis,65-74 years,1999-2013,-3.42,-3.48,0.06,P=0.021,0.0000
+Lung Metastasis,65-74 years,2013-2016,9.4,9.33,0.07,P=0.090,0.0000
+Lung Metastasis,65-74 years,2016-2023,1.38,1.32,0.06,P=0.149,0.0000
+Colorectal Cancer,75-84 years,1999-2023,-3.2,-3.03,0.17,P<.001,0.0000
+Liver Metastasis,75-84 years,1999-2009,-8.1,-8.3,0.2,P<.001,0.0000
+Liver Metastasis,75-84 years,2009-2023,1.97,1.74,0.23,P<.001,0.0000
+Lung Metastasis,75-84 years,1999-2008,-4.35,-4.34,0.01,P<.001,0.0000
+Lung Metastasis,75-84 years,2008-2023,0.85,0.86,0.01,P=0.007,0.0000
+Colorectal Cancer,85+ years,1999-2018,-2.96,-2.83,0.13,P<.001,0.0000
+Colorectal Cancer,85+ years,2018-2023,-0.02,0.12,0.14,P=0.997,0.0000
+Liver Metastasis,85+ years,1999-2010,-6.38,-6.38,0.0,P<.001,0.0000
+Liver Metastasis,85+ years,2010-2023,3.27,3.27,0.0,P<.001,0.0000
+Lung Metastasis,85+ years,1999-2010,-3.72,-3.63,0.09,P<.001,0.0000
+Lung Metastasis,85+ years,2010-2023,2.89,2.99,0.1,P<.001,0.0000
+Colorectal Cancer,Midwest,1999-2012,-2.85,-2.78,0.07,P<.001,0.0000
+Colorectal Cancer,Midwest,2012-2023,-1.48,-1.41,0.07,P<.001,0.0000
+Liver Metastasis,Midwest,1999-2009,-8.49,-8.49,0.0,P=0.003,0.0000
+Liver Metastasis,Midwest,2009-2013,-1.4,-1.39,0.01,P=0.306,0.0000
+Liver Metastasis,Midwest,2013-2016,11.25,11.24,0.01,P=0.080,0.0000
+Liver Metastasis,Midwest,2016-2023,4.62,4.63,0.01,P=0.030,0.0000
+Lung Metastasis,Midwest,1999-2011,-3.62,-3.36,0.26,P<.001,0.0000
+Lung Metastasis,Midwest,2011-2023,4.64,4.91,0.27,P<.001,0.0000
+Colorectal Cancer,Northeast,1999-2009,-3.75,-3.56,0.19,P<.001,0.0000
+Colorectal Cancer,Northeast,2009-2023,-2.6,-2.41,0.19,P<.001,0.0000
+Liver Metastasis,Northeast,1999-2010,-9.21,-9.06,0.15,P<.001,0.0000
+Liver Metastasis,Northeast,2010-2023,0.93,1.09,0.16,P=0.011,0.0000
+Lung Metastasis,Northeast,1999-2010,-4.94,-4.58,0.36,P<.001,0.0000
+Lung Metastasis,Northeast,2010-2023,0.14,0.51,0.37,P=0.646,0.0000
+Colorectal Cancer,South,1999-2012,-2.43,-2.33,0.1,P=0.008,0.0000
+Colorectal Cancer,South,2012-2020,-1.57,-1.47,0.1,P=0.002,0.0000
+Colorectal Cancer,South,2020-2023,0.9,1.01,0.11,P=0.225,0.0000
+Liver Metastasis,South,1999-2007,-7.59,-7.34,0.25,P<.001,0.0000
+Liver Metastasis,South,2007-2012,-1.37,-1.11,0.26,P=0.372,0.0000
+Liver Metastasis,South,2012-2016,8.48,8.77,0.29,P=0.010,0.0000
+Liver Metastasis,South,2016-2023,2.62,2.89,0.27,P=0.023,0.0000
+Lung Metastasis,South,1999-2008,-3.67,-3.66,0.01,P<.001,0.0000
+Lung Metastasis,South,2008-2013,0.96,0.96,0.0,P=0.312,0.0000
+Lung Metastasis,South,2013-2016,10.37,10.37,0.0,P<.001,0.0000
+Lung Metastasis,South,2016-2023,2.67,2.67,0.0,P<.001,0.0000
+Colorectal Cancer,West,1999-2018,-2.26,-2.24,0.02,P<.001,0.0000
+Colorectal Cancer,West,2018-2023,0.23,0.25,0.02,P=0.560,0.0000
+Liver Metastasis,West,1999-2006,-7.0,-7.26,0.26,P<.001,0.0000
+Liver Metastasis,West,2006-2014,1.74,1.44,0.3,P=0.076,0.0000
+Liver Metastasis,West,2014-2017,11.16,10.83,0.33,P<.001,0.0000
+Liver Metastasis,West,2017-2023,1.53,1.23,0.3,P=0.063,0.0000
+Lung Metastasis,West,1999-2003,-9.31,-9.35,0.04,P<.001,0.0000
+Lung Metastasis,West,2003-2014,2.36,2.31,0.05,P=0.016,0.0000
+Lung Metastasis,West,2014-2017,12.43,12.37,0.06,P<.001,0.0000
+Lung Metastasis,West,2017-2023,0.4,0.35,0.05,P=0.653,0.0000
+Colorectal Cancer,Nonmetropolitan,1999-2006,-2.47,-2.47,0.0,P<.001,0.0000
+Colorectal Cancer,Nonmetropolitan,2006-2020,-1.48,-1.48,0.0,P=0.010,0.0000
+Liver Metastasis,Nonmetropolitan,1999-2010,-6.32,-6.32,0.0,P<.001,0.0000
+Liver Metastasis,Nonmetropolitan,2010-2020,5.45,5.45,0.0,P<.001,0.0000
+Lung Metastasis,Nonmetropolitan,1999-2010,-3.35,-3.35,0.0,P<.001,0.0000
+Lung Metastasis,Nonmetropolitan,2010-2020,4.79,4.79,0.0,P<.001,0.0000

@@ -1,0 +1,1376 @@
+outcome,domain,subgroup,year,aamr
+Colorectal Cancer,Sex,Both,1999,32.06
+Colorectal Cancer,Sex,Both,2000,31.188
+Colorectal Cancer,Sex,Both,2001,30.339
+Colorectal Cancer,Sex,Both,2002,29.514
+Colorectal Cancer,Sex,Both,2003,28.711
+Colorectal Cancer,Sex,Both,2004,27.93
+Colorectal Cancer,Sex,Both,2005,27.17
+Colorectal Cancer,Sex,Both,2006,26.431
+Colorectal Cancer,Sex,Both,2007,25.712
+Colorectal Cancer,Sex,Both,2008,25.012
+Colorectal Cancer,Sex,Both,2009,24.332
+Colorectal Cancer,Sex,Both,2010,23.67
+Colorectal Cancer,Sex,Both,2011,23.026
+Colorectal Cancer,Sex,Both,2012,22.399
+Colorectal Cancer,Sex,Both,2013,22.01
+Colorectal Cancer,Sex,Both,2014,21.627
+Colorectal Cancer,Sex,Both,2015,21.25
+Colorectal Cancer,Sex,Both,2016,20.88
+Colorectal Cancer,Sex,Both,2017,20.517
+Colorectal Cancer,Sex,Both,2018,20.16
+Colorectal Cancer,Sex,Both,2019,19.809
+Colorectal Cancer,Sex,Both,2020,19.464
+Colorectal Cancer,Sex,Both,2021,19.5
+Colorectal Cancer,Sex,Both,2022,19.535
+Colorectal Cancer,Sex,Both,2023,19.57
+Liver Metastasis,Sex,Both,1999,3.32
+Liver Metastasis,Sex,Both,2000,3.058
+Liver Metastasis,Sex,Both,2001,2.817
+Liver Metastasis,Sex,Both,2002,2.595
+Liver Metastasis,Sex,Both,2003,2.39
+Liver Metastasis,Sex,Both,2004,2.201
+Liver Metastasis,Sex,Both,2005,2.028
+Liver Metastasis,Sex,Both,2006,1.868
+Liver Metastasis,Sex,Both,2007,1.72
+Liver Metastasis,Sex,Both,2008,1.585
+Liver Metastasis,Sex,Both,2009,1.581
+Liver Metastasis,Sex,Both,2010,1.578
+Liver Metastasis,Sex,Both,2011,1.575
+Liver Metastasis,Sex,Both,2012,1.571
+Liver Metastasis,Sex,Both,2013,1.568
+Liver Metastasis,Sex,Both,2014,1.714
+Liver Metastasis,Sex,Both,2015,1.874
+Liver Metastasis,Sex,Both,2016,2.048
+Liver Metastasis,Sex,Both,2017,2.107
+Liver Metastasis,Sex,Both,2018,2.168
+Liver Metastasis,Sex,Both,2019,2.231
+Liver Metastasis,Sex,Both,2020,2.295
+Liver Metastasis,Sex,Both,2021,2.362
+Liver Metastasis,Sex,Both,2022,2.43
+Liver Metastasis,Sex,Both,2023,2.5
+Lung Metastasis,Sex,Both,1999,1.38
+Lung Metastasis,Sex,Both,2000,1.327
+Lung Metastasis,Sex,Both,2001,1.277
+Lung Metastasis,Sex,Both,2002,1.228
+Lung Metastasis,Sex,Both,2003,1.182
+Lung Metastasis,Sex,Both,2004,1.137
+Lung Metastasis,Sex,Both,2005,1.093
+Lung Metastasis,Sex,Both,2006,1.052
+Lung Metastasis,Sex,Both,2007,1.012
+Lung Metastasis,Sex,Both,2008,0.973
+Lung Metastasis,Sex,Both,2009,0.987
+Lung Metastasis,Sex,Both,2010,1.0
+Lung Metastasis,Sex,Both,2011,1.014
+Lung Metastasis,Sex,Both,2012,1.029
+Lung Metastasis,Sex,Both,2013,1.043
+Lung Metastasis,Sex,Both,2014,1.057
+Lung Metastasis,Sex,Both,2015,1.145
+Lung Metastasis,Sex,Both,2016,1.241
+Lung Metastasis,Sex,Both,2017,1.344
+Lung Metastasis,Sex,Both,2018,1.372
+Lung Metastasis,Sex,Both,2019,1.4
+Lung Metastasis,Sex,Both,2020,1.429
+Lung Metastasis,Sex,Both,2021,1.459
+Lung Metastasis,Sex,Both,2022,1.489
+Lung Metastasis,Sex,Both,2023,1.52
+Colorectal Cancer,Sex,Female,1999,27.25
+Colorectal Cancer,Sex,Female,2000,26.496
+Colorectal Cancer,Sex,Female,2001,25.763
+Colorectal Cancer,Sex,Female,2002,25.051
+Colorectal Cancer,Sex,Female,2003,24.358
+Colorectal Cancer,Sex,Female,2004,23.684
+Colorectal Cancer,Sex,Female,2005,23.029
+Colorectal Cancer,Sex,Female,2006,22.392
+Colorectal Cancer,Sex,Female,2007,21.772
+Colorectal Cancer,Sex,Female,2008,21.17
+Colorectal Cancer,Sex,Female,2009,20.585
+Colorectal Cancer,Sex,Female,2010,20.015
+Colorectal Cancer,Sex,Female,2011,19.462
+Colorectal Cancer,Sex,Female,2012,18.923
+Colorectal Cancer,Sex,Female,2013,18.57
+Colorectal Cancer,Sex,Female,2014,18.224
+Colorectal Cancer,Sex,Female,2015,17.884
+Colorectal Cancer,Sex,Female,2016,17.55
+Colorectal Cancer,Sex,Female,2017,17.222
+Colorectal Cancer,Sex,Female,2018,16.901
+Colorectal Cancer,Sex,Female,2019,16.586
+Colorectal Cancer,Sex,Female,2020,16.276
+Colorectal Cancer,Sex,Female,2021,16.334
+Colorectal Cancer,Sex,Female,2022,16.392
+Colorectal Cancer,Sex,Female,2023,16.45
+Liver Metastasis,Sex,Female,1999,2.72
+Liver Metastasis,Sex,Female,2000,2.508
+Liver Metastasis,Sex,Female,2001,2.313
+Liver Metastasis,Sex,Female,2002,2.133
+Liver Metastasis,Sex,Female,2003,1.967
+Liver Metastasis,Sex,Female,2004,1.813
+Liver Metastasis,Sex,Female,2005,1.672
+Liver Metastasis,Sex,Female,2006,1.542
+Liver Metastasis,Sex,Female,2007,1.422
+Liver Metastasis,Sex,Female,2008,1.311
+Liver Metastasis,Sex,Female,2009,1.292
+Liver Metastasis,Sex,Female,2010,1.273
+Liver Metastasis,Sex,Female,2011,1.255
+Liver Metastasis,Sex,Female,2012,1.236
+Liver Metastasis,Sex,Female,2013,1.218
+Liver Metastasis,Sex,Female,2014,1.343
+Liver Metastasis,Sex,Female,2015,1.48
+Liver Metastasis,Sex,Female,2016,1.631
+Liver Metastasis,Sex,Female,2017,1.673
+Liver Metastasis,Sex,Female,2018,1.717
+Liver Metastasis,Sex,Female,2019,1.761
+Liver Metastasis,Sex,Female,2020,1.806
+Liver Metastasis,Sex,Female,2021,1.853
+Liver Metastasis,Sex,Female,2022,1.901
+Liver Metastasis,Sex,Female,2023,1.95
+Lung Metastasis,Sex,Female,1999,1.03
+Lung Metastasis,Sex,Female,2000,0.99
+Lung Metastasis,Sex,Female,2001,0.951
+Lung Metastasis,Sex,Female,2002,0.914
+Lung Metastasis,Sex,Female,2003,0.878
+Lung Metastasis,Sex,Female,2004,0.844
+Lung Metastasis,Sex,Female,2005,0.811
+Lung Metastasis,Sex,Female,2006,0.779
+Lung Metastasis,Sex,Female,2007,0.778
+Lung Metastasis,Sex,Female,2008,0.777
+Lung Metastasis,Sex,Female,2009,0.775
+Lung Metastasis,Sex,Female,2010,0.774
+Lung Metastasis,Sex,Female,2011,0.773
+Lung Metastasis,Sex,Female,2012,0.772
+Lung Metastasis,Sex,Female,2013,0.77
+Lung Metastasis,Sex,Female,2014,0.769
+Lung Metastasis,Sex,Female,2015,0.857
+Lung Metastasis,Sex,Female,2016,0.956
+Lung Metastasis,Sex,Female,2017,1.065
+Lung Metastasis,Sex,Female,2018,1.085
+Lung Metastasis,Sex,Female,2019,1.105
+Lung Metastasis,Sex,Female,2020,1.126
+Lung Metastasis,Sex,Female,2021,1.147
+Lung Metastasis,Sex,Female,2022,1.168
+Lung Metastasis,Sex,Female,2023,1.19
+Colorectal Cancer,Sex,Male,1999,38.87
+Colorectal Cancer,Sex,Male,2000,38.103
+Colorectal Cancer,Sex,Male,2001,37.352
+Colorectal Cancer,Sex,Male,2002,36.615
+Colorectal Cancer,Sex,Male,2003,35.157
+Colorectal Cancer,Sex,Male,2004,33.756
+Colorectal Cancer,Sex,Male,2005,32.412
+Colorectal Cancer,Sex,Male,2006,31.604
+Colorectal Cancer,Sex,Male,2007,30.816
+Colorectal Cancer,Sex,Male,2008,30.048
+Colorectal Cancer,Sex,Male,2009,29.299
+Colorectal Cancer,Sex,Male,2010,28.569
+Colorectal Cancer,Sex,Male,2011,27.857
+Colorectal Cancer,Sex,Male,2012,27.163
+Colorectal Cancer,Sex,Male,2013,26.485
+Colorectal Cancer,Sex,Male,2014,25.984
+Colorectal Cancer,Sex,Male,2015,25.493
+Colorectal Cancer,Sex,Male,2016,25.01
+Colorectal Cancer,Sex,Male,2017,24.537
+Colorectal Cancer,Sex,Male,2018,24.072
+Colorectal Cancer,Sex,Male,2019,23.617
+Colorectal Cancer,Sex,Male,2020,23.52
+Colorectal Cancer,Sex,Male,2021,23.423
+Colorectal Cancer,Sex,Male,2022,23.326
+Colorectal Cancer,Sex,Male,2023,23.23
+Liver Metastasis,Sex,Male,1999,4.15
+Liver Metastasis,Sex,Male,2000,3.802
+Liver Metastasis,Sex,Male,2001,3.483
+Liver Metastasis,Sex,Male,2002,3.191
+Liver Metastasis,Sex,Male,2003,2.923
+Liver Metastasis,Sex,Male,2004,2.678
+Liver Metastasis,Sex,Male,2005,2.453
+Liver Metastasis,Sex,Male,2006,2.247
+Liver Metastasis,Sex,Male,2007,2.059
+Liver Metastasis,Sex,Male,2008,2.04
+Liver Metastasis,Sex,Male,2009,2.021
+Liver Metastasis,Sex,Male,2010,2.003
+Liver Metastasis,Sex,Male,2011,1.985
+Liver Metastasis,Sex,Male,2012,1.967
+Liver Metastasis,Sex,Male,2013,1.949
+Liver Metastasis,Sex,Male,2014,2.127
+Liver Metastasis,Sex,Male,2015,2.321
+Liver Metastasis,Sex,Male,2016,2.533
+Liver Metastasis,Sex,Male,2017,2.61
+Liver Metastasis,Sex,Male,2018,2.689
+Liver Metastasis,Sex,Male,2019,2.77
+Liver Metastasis,Sex,Male,2020,2.854
+Liver Metastasis,Sex,Male,2021,2.94
+Liver Metastasis,Sex,Male,2022,3.029
+Liver Metastasis,Sex,Male,2023,3.12
+Lung Metastasis,Sex,Male,1999,1.88
+Lung Metastasis,Sex,Male,2000,1.797
+Lung Metastasis,Sex,Male,2001,1.718
+Lung Metastasis,Sex,Male,2002,1.643
+Lung Metastasis,Sex,Male,2003,1.57
+Lung Metastasis,Sex,Male,2004,1.501
+Lung Metastasis,Sex,Male,2005,1.435
+Lung Metastasis,Sex,Male,2006,1.372
+Lung Metastasis,Sex,Male,2007,1.312
+Lung Metastasis,Sex,Male,2008,1.254
+Lung Metastasis,Sex,Male,2009,1.264
+Lung Metastasis,Sex,Male,2010,1.274
+Lung Metastasis,Sex,Male,2011,1.285
+Lung Metastasis,Sex,Male,2012,1.295
+Lung Metastasis,Sex,Male,2013,1.306
+Lung Metastasis,Sex,Male,2014,1.386
+Lung Metastasis,Sex,Male,2015,1.472
+Lung Metastasis,Sex,Male,2016,1.563
+Lung Metastasis,Sex,Male,2017,1.659
+Lung Metastasis,Sex,Male,2018,1.691
+Lung Metastasis,Sex,Male,2019,1.723
+Lung Metastasis,Sex,Male,2020,1.757
+Lung Metastasis,Sex,Male,2021,1.79
+Lung Metastasis,Sex,Male,2022,1.825
+Lung Metastasis,Sex,Male,2023,1.86
+Colorectal Cancer,Race,Hispanic,1999,21.98
+Colorectal Cancer,Race,Hispanic,2000,15.687
+Colorectal Cancer,Race,Hispanic,2001,15.709
+Colorectal Cancer,Race,Hispanic,2002,15.729
+Colorectal Cancer,Race,Hispanic,2003,15.748
+Colorectal Cancer,Race,Hispanic,2004,15.765
+Colorectal Cancer,Race,Hispanic,2005,15.78
+Colorectal Cancer,Race,Hispanic,2006,15.794
+Colorectal Cancer,Race,Hispanic,2007,15.806
+Colorectal Cancer,Race,Hispanic,2008,15.817
+Colorectal Cancer,Race,Hispanic,2009,15.826
+Colorectal Cancer,Race,Hispanic,2010,15.833
+Colorectal Cancer,Race,Hispanic,2011,15.839
+Colorectal Cancer,Race,Hispanic,2012,15.844
+Colorectal Cancer,Race,Hispanic,2013,15.847
+Colorectal Cancer,Race,Hispanic,2014,15.849
+Colorectal Cancer,Race,Hispanic,2015,15.849
+Colorectal Cancer,Race,Hispanic,2016,15.849
+Colorectal Cancer,Race,Hispanic,2017,15.846
+Colorectal Cancer,Race,Hispanic,2018,15.843
+Colorectal Cancer,Race,Hispanic,2019,15.838
+Colorectal Cancer,Race,Hispanic,2020,15.465
+Colorectal Cancer,Race,Hispanic,2021,15.669
+Colorectal Cancer,Race,Hispanic,2022,15.874
+Colorectal Cancer,Race,Hispanic,2023,16.08
+Liver Metastasis,Race,Hispanic,1999,2.25
+Liver Metastasis,Race,Hispanic,2000,2.103
+Liver Metastasis,Race,Hispanic,2001,1.966
+Liver Metastasis,Race,Hispanic,2002,1.837
+Liver Metastasis,Race,Hispanic,2003,1.716
+Liver Metastasis,Race,Hispanic,2004,1.604
+Liver Metastasis,Race,Hispanic,2005,1.498
+Liver Metastasis,Race,Hispanic,2006,1.399
+Liver Metastasis,Race,Hispanic,2007,1.307
+Liver Metastasis,Race,Hispanic,2008,1.221
+Liver Metastasis,Race,Hispanic,2009,1.256
+Liver Metastasis,Race,Hispanic,2010,1.293
+Liver Metastasis,Race,Hispanic,2011,1.943
+Liver Metastasis,Race,Hispanic,2012,1.96
+Liver Metastasis,Race,Hispanic,2013,1.978
+Liver Metastasis,Race,Hispanic,2014,1.995
+Liver Metastasis,Race,Hispanic,2015,2.013
+Liver Metastasis,Race,Hispanic,2016,2.03
+Liver Metastasis,Race,Hispanic,2017,2.047
+Liver Metastasis,Race,Hispanic,2018,2.064
+Liver Metastasis,Race,Hispanic,2019,2.08
+Liver Metastasis,Race,Hispanic,2020,2.097
+Liver Metastasis,Race,Hispanic,2021,2.172
+Liver Metastasis,Race,Hispanic,2022,2.115
+Liver Metastasis,Race,Hispanic,2023,2.06
+Lung Metastasis,Race,Hispanic,1999,1.1
+Lung Metastasis,Race,Hispanic,2000,1.019
+Lung Metastasis,Race,Hispanic,2001,0.944
+Lung Metastasis,Race,Hispanic,2002,0.874
+Lung Metastasis,Race,Hispanic,2003,0.809
+Lung Metastasis,Race,Hispanic,2004,0.75
+Lung Metastasis,Race,Hispanic,2005,0.761
+Lung Metastasis,Race,Hispanic,2006,0.773
+Lung Metastasis,Race,Hispanic,2007,0.786
+Lung Metastasis,Race,Hispanic,2008,0.798
+Lung Metastasis,Race,Hispanic,2009,0.811
+Lung Metastasis,Race,Hispanic,2010,0.823
+Lung Metastasis,Race,Hispanic,2011,0.836
+Lung Metastasis,Race,Hispanic,2012,0.85
+Lung Metastasis,Race,Hispanic,2013,0.863
+Lung Metastasis,Race,Hispanic,2014,0.981
+Lung Metastasis,Race,Hispanic,2015,1.116
+Lung Metastasis,Race,Hispanic,2016,1.269
+Lung Metastasis,Race,Hispanic,2017,1.265
+Lung Metastasis,Race,Hispanic,2018,1.261
+Lung Metastasis,Race,Hispanic,2019,1.257
+Lung Metastasis,Race,Hispanic,2020,1.253
+Lung Metastasis,Race,Hispanic,2021,1.248
+Lung Metastasis,Race,Hispanic,2022,1.244
+Lung Metastasis,Race,Hispanic,2023,1.24
+Colorectal Cancer,Race,NH Asian,1999,18.54
+Colorectal Cancer,Race,NH Asian,2000,18.29
+Colorectal Cancer,Race,NH Asian,2001,18.043
+Colorectal Cancer,Race,NH Asian,2002,17.799
+Colorectal Cancer,Race,NH Asian,2003,17.558
+Colorectal Cancer,Race,NH Asian,2004,17.32
+Colorectal Cancer,Race,NH Asian,2005,17.085
+Colorectal Cancer,Race,NH Asian,2006,16.853
+Colorectal Cancer,Race,NH Asian,2007,16.625
+Colorectal Cancer,Race,NH Asian,2008,16.399
+Colorectal Cancer,Race,NH Asian,2009,16.176
+Colorectal Cancer,Race,NH Asian,2010,15.956
+Colorectal Cancer,Race,NH Asian,2011,15.738
+Colorectal Cancer,Race,NH Asian,2012,15.524
+Colorectal Cancer,Race,NH Asian,2013,15.312
+Colorectal Cancer,Race,NH Asian,2014,15.103
+Colorectal Cancer,Race,NH Asian,2015,14.897
+Colorectal Cancer,Race,NH Asian,2016,14.693
+Colorectal Cancer,Race,NH Asian,2017,14.492
+Colorectal Cancer,Race,NH Asian,2018,14.294
+Colorectal Cancer,Race,NH Asian,2019,14.098
+Colorectal Cancer,Race,NH Asian,2020,13.905
+Colorectal Cancer,Race,NH Asian,2021,13.714
+Colorectal Cancer,Race,NH Asian,2022,13.526
+Colorectal Cancer,Race,NH Asian,2023,13.34
+Liver Metastasis,Race,NH Asian,1999,2.07
+Liver Metastasis,Race,NH Asian,2000,1.87
+Liver Metastasis,Race,NH Asian,2001,1.689
+Liver Metastasis,Race,NH Asian,2002,1.526
+Liver Metastasis,Race,NH Asian,2003,1.378
+Liver Metastasis,Race,NH Asian,2004,1.245
+Liver Metastasis,Race,NH Asian,2005,1.125
+Liver Metastasis,Race,NH Asian,2006,1.016
+Liver Metastasis,Race,NH Asian,2007,1.048
+Liver Metastasis,Race,NH Asian,2008,1.08
+Liver Metastasis,Race,NH Asian,2009,1.114
+Liver Metastasis,Race,NH Asian,2010,1.148
+Liver Metastasis,Race,NH Asian,2011,1.184
+Liver Metastasis,Race,NH Asian,2012,1.221
+Liver Metastasis,Race,NH Asian,2013,1.259
+Liver Metastasis,Race,NH Asian,2014,1.298
+Liver Metastasis,Race,NH Asian,2015,1.338
+Liver Metastasis,Race,NH Asian,2016,1.38
+Liver Metastasis,Race,NH Asian,2017,1.423
+Liver Metastasis,Race,NH Asian,2018,1.467
+Liver Metastasis,Race,NH Asian,2019,1.513
+Liver Metastasis,Race,NH Asian,2020,1.56
+Liver Metastasis,Race,NH Asian,2021,1.608
+Liver Metastasis,Race,NH Asian,2022,1.658
+Liver Metastasis,Race,NH Asian,2023,1.71
+Lung Metastasis,Race,NH Asian,1999,1.0
+Lung Metastasis,Race,NH Asian,2000,0.937
+Lung Metastasis,Race,NH Asian,2001,0.878
+Lung Metastasis,Race,NH Asian,2002,0.822
+Lung Metastasis,Race,NH Asian,2003,0.77
+Lung Metastasis,Race,NH Asian,2004,0.722
+Lung Metastasis,Race,NH Asian,2005,0.744
+Lung Metastasis,Race,NH Asian,2006,0.766
+Lung Metastasis,Race,NH Asian,2007,0.789
+Lung Metastasis,Race,NH Asian,2008,0.813
+Lung Metastasis,Race,NH Asian,2009,0.838
+Lung Metastasis,Race,NH Asian,2010,0.863
+Lung Metastasis,Race,NH Asian,2011,0.889
+Lung Metastasis,Race,NH Asian,2012,0.916
+Lung Metastasis,Race,NH Asian,2013,0.943
+Lung Metastasis,Race,NH Asian,2014,0.972
+Lung Metastasis,Race,NH Asian,2015,1.001
+Lung Metastasis,Race,NH Asian,2016,1.031
+Lung Metastasis,Race,NH Asian,2017,1.063
+Lung Metastasis,Race,NH Asian,2018,1.095
+Lung Metastasis,Race,NH Asian,2019,1.128
+Lung Metastasis,Race,NH Asian,2020,1.162
+Lung Metastasis,Race,NH Asian,2021,1.197
+Lung Metastasis,Race,NH Asian,2022,1.233
+Lung Metastasis,Race,NH Asian,2023,1.27
+Colorectal Cancer,Race,NH Black,1999,44.0
+Colorectal Cancer,Race,NH Black,2000,42.864
+Colorectal Cancer,Race,NH Black,2001,41.758
+Colorectal Cancer,Race,NH Black,2002,40.68
+Colorectal Cancer,Race,NH Black,2003,39.63
+Colorectal Cancer,Race,NH Black,2004,38.607
+Colorectal Cancer,Race,NH Black,2005,37.61
+Colorectal Cancer,Race,NH Black,2006,36.639
+Colorectal Cancer,Race,NH Black,2007,35.693
+Colorectal Cancer,Race,NH Black,2008,34.771
+Colorectal Cancer,Race,NH Black,2009,33.873
+Colorectal Cancer,Race,NH Black,2010,32.998
+Colorectal Cancer,Race,NH Black,2011,32.146
+Colorectal Cancer,Race,NH Black,2012,31.315
+Colorectal Cancer,Race,NH Black,2013,30.506
+Colorectal Cancer,Race,NH Black,2014,29.718
+Colorectal Cancer,Race,NH Black,2015,28.95
+Colorectal Cancer,Race,NH Black,2016,28.202
+Colorectal Cancer,Race,NH Black,2017,27.474
+Colorectal Cancer,Race,NH Black,2018,26.763
+Colorectal Cancer,Race,NH Black,2019,26.072
+Colorectal Cancer,Race,NH Black,2020,25.774
+Colorectal Cancer,Race,NH Black,2021,25.479
+Colorectal Cancer,Race,NH Black,2022,25.188
+Colorectal Cancer,Race,NH Black,2023,24.9
+Liver Metastasis,Race,NH Black,1999,4.85
+Liver Metastasis,Race,NH Black,2000,4.47
+Liver Metastasis,Race,NH Black,2001,4.121
+Liver Metastasis,Race,NH Black,2002,3.798
+Liver Metastasis,Race,NH Black,2003,3.501
+Liver Metastasis,Race,NH Black,2004,3.227
+Liver Metastasis,Race,NH Black,2005,2.974
+Liver Metastasis,Race,NH Black,2006,2.742
+Liver Metastasis,Race,NH Black,2007,2.527
+Liver Metastasis,Race,NH Black,2008,2.329
+Liver Metastasis,Race,NH Black,2009,2.147
+Liver Metastasis,Race,NH Black,2010,2.202
+Liver Metastasis,Race,NH Black,2011,2.259
+Liver Metastasis,Race,NH Black,2012,2.318
+Liver Metastasis,Race,NH Black,2013,2.378
+Liver Metastasis,Race,NH Black,2014,2.439
+Liver Metastasis,Race,NH Black,2015,2.503
+Liver Metastasis,Race,NH Black,2016,2.567
+Liver Metastasis,Race,NH Black,2017,2.634
+Liver Metastasis,Race,NH Black,2018,2.702
+Liver Metastasis,Race,NH Black,2019,2.772
+Liver Metastasis,Race,NH Black,2020,2.844
+Liver Metastasis,Race,NH Black,2021,2.917
+Liver Metastasis,Race,NH Black,2022,2.993
+Liver Metastasis,Race,NH Black,2023,3.07
+Lung Metastasis,Race,NH Black,1999,1.75
+Lung Metastasis,Race,NH Black,2000,1.69
+Lung Metastasis,Race,NH Black,2001,1.631
+Lung Metastasis,Race,NH Black,2002,1.575
+Lung Metastasis,Race,NH Black,2003,1.521
+Lung Metastasis,Race,NH Black,2004,1.468
+Lung Metastasis,Race,NH Black,2005,1.417
+Lung Metastasis,Race,NH Black,2006,1.369
+Lung Metastasis,Race,NH Black,2007,1.321
+Lung Metastasis,Race,NH Black,2008,1.276
+Lung Metastasis,Race,NH Black,2009,1.232
+Lung Metastasis,Race,NH Black,2010,1.258
+Lung Metastasis,Race,NH Black,2011,1.284
+Lung Metastasis,Race,NH Black,2012,1.311
+Lung Metastasis,Race,NH Black,2013,1.339
+Lung Metastasis,Race,NH Black,2014,1.367
+Lung Metastasis,Race,NH Black,2015,1.396
+Lung Metastasis,Race,NH Black,2016,1.426
+Lung Metastasis,Race,NH Black,2017,1.456
+Lung Metastasis,Race,NH Black,2018,1.486
+Lung Metastasis,Race,NH Black,2019,1.518
+Lung Metastasis,Race,NH Black,2020,1.55
+Lung Metastasis,Race,NH Black,2021,1.583
+Lung Metastasis,Race,NH Black,2022,1.616
+Lung Metastasis,Race,NH Black,2023,1.65
+Colorectal Cancer,Race,NH White,1999,31.72
+Colorectal Cancer,Race,NH White,2000,30.834
+Colorectal Cancer,Race,NH White,2001,29.973
+Colorectal Cancer,Race,NH White,2002,29.135
+Colorectal Cancer,Race,NH White,2003,28.322
+Colorectal Cancer,Race,NH White,2004,27.531
+Colorectal Cancer,Race,NH White,2005,26.761
+Colorectal Cancer,Race,NH White,2006,26.014
+Colorectal Cancer,Race,NH White,2007,25.287
+Colorectal Cancer,Race,NH White,2008,24.581
+Colorectal Cancer,Race,NH White,2009,23.894
+Colorectal Cancer,Race,NH White,2010,23.227
+Colorectal Cancer,Race,NH White,2011,22.578
+Colorectal Cancer,Race,NH White,2012,22.214
+Colorectal Cancer,Race,NH White,2013,21.855
+Colorectal Cancer,Race,NH White,2014,21.503
+Colorectal Cancer,Race,NH White,2015,21.156
+Colorectal Cancer,Race,NH White,2016,20.815
+Colorectal Cancer,Race,NH White,2017,20.479
+Colorectal Cancer,Race,NH White,2018,20.149
+Colorectal Cancer,Race,NH White,2019,19.824
+Colorectal Cancer,Race,NH White,2020,19.504
+Colorectal Cancer,Race,NH White,2021,19.681
+Colorectal Cancer,Race,NH White,2022,19.86
+Colorectal Cancer,Race,NH White,2023,20.04
+Liver Metastasis,Race,NH White,1999,3.24
+Liver Metastasis,Race,NH White,2000,2.975
+Liver Metastasis,Race,NH White,2001,2.731
+Liver Metastasis,Race,NH White,2002,2.508
+Liver Metastasis,Race,NH White,2003,2.303
+Liver Metastasis,Race,NH White,2004,2.114
+Liver Metastasis,Race,NH White,2005,1.941
+Liver Metastasis,Race,NH White,2006,1.782
+Liver Metastasis,Race,NH White,2007,1.636
+Liver Metastasis,Race,NH White,2008,1.611
+Liver Metastasis,Race,NH White,2009,1.586
+Liver Metastasis,Race,NH White,2010,1.562
+Liver Metastasis,Race,NH White,2011,1.538
+Liver Metastasis,Race,NH White,2012,1.514
+Liver Metastasis,Race,NH White,2013,1.491
+Liver Metastasis,Race,NH White,2014,1.644
+Liver Metastasis,Race,NH White,2015,1.812
+Liver Metastasis,Race,NH White,2016,1.998
+Liver Metastasis,Race,NH White,2017,2.072
+Liver Metastasis,Race,NH White,2018,2.149
+Liver Metastasis,Race,NH White,2019,2.229
+Liver Metastasis,Race,NH White,2020,2.312
+Liver Metastasis,Race,NH White,2021,2.398
+Liver Metastasis,Race,NH White,2022,2.487
+Liver Metastasis,Race,NH White,2023,2.58
+Lung Metastasis,Race,NH White,1999,1.33
+Lung Metastasis,Race,NH White,2000,1.284
+Lung Metastasis,Race,NH White,2001,1.24
+Lung Metastasis,Race,NH White,2002,1.197
+Lung Metastasis,Race,NH White,2003,1.155
+Lung Metastasis,Race,NH White,2004,1.115
+Lung Metastasis,Race,NH White,2005,1.077
+Lung Metastasis,Race,NH White,2006,1.04
+Lung Metastasis,Race,NH White,2007,1.004
+Lung Metastasis,Race,NH White,2008,0.969
+Lung Metastasis,Race,NH White,2009,0.935
+Lung Metastasis,Race,NH White,2010,0.955
+Lung Metastasis,Race,NH White,2011,0.975
+Lung Metastasis,Race,NH White,2012,0.995
+Lung Metastasis,Race,NH White,2013,1.015
+Lung Metastasis,Race,NH White,2014,1.036
+Lung Metastasis,Race,NH White,2015,1.127
+Lung Metastasis,Race,NH White,2016,1.225
+Lung Metastasis,Race,NH White,2017,1.332
+Lung Metastasis,Race,NH White,2018,1.372
+Lung Metastasis,Race,NH White,2019,1.413
+Lung Metastasis,Race,NH White,2020,1.455
+Lung Metastasis,Race,NH White,2021,1.499
+Lung Metastasis,Race,NH White,2022,1.544
+Lung Metastasis,Race,NH White,2023,1.59
+Colorectal Cancer,Age Group,25-34 years,1999,0.69
+Colorectal Cancer,Age Group,25-34 years,2000,0.695
+Colorectal Cancer,Age Group,25-34 years,2001,0.699
+Colorectal Cancer,Age Group,25-34 years,2002,0.704
+Colorectal Cancer,Age Group,25-34 years,2003,0.709
+Colorectal Cancer,Age Group,25-34 years,2004,0.714
+Colorectal Cancer,Age Group,25-34 years,2005,0.718
+Colorectal Cancer,Age Group,25-34 years,2006,0.723
+Colorectal Cancer,Age Group,25-34 years,2007,0.728
+Colorectal Cancer,Age Group,25-34 years,2008,0.733
+Colorectal Cancer,Age Group,25-34 years,2009,0.738
+Colorectal Cancer,Age Group,25-34 years,2010,0.743
+Colorectal Cancer,Age Group,25-34 years,2011,0.748
+Colorectal Cancer,Age Group,25-34 years,2012,0.753
+Colorectal Cancer,Age Group,25-34 years,2013,0.758
+Colorectal Cancer,Age Group,25-34 years,2014,0.763
+Colorectal Cancer,Age Group,25-34 years,2015,0.768
+Colorectal Cancer,Age Group,25-34 years,2016,0.773
+Colorectal Cancer,Age Group,25-34 years,2017,0.778
+Colorectal Cancer,Age Group,25-34 years,2018,0.784
+Colorectal Cancer,Age Group,25-34 years,2019,0.789
+Colorectal Cancer,Age Group,25-34 years,2020,0.794
+Colorectal Cancer,Age Group,25-34 years,2021,0.799
+Colorectal Cancer,Age Group,25-34 years,2022,0.805
+Colorectal Cancer,Age Group,25-34 years,2023,0.81
+Colorectal Cancer,Age Group,35-44 years,1999,2.87
+Colorectal Cancer,Age Group,35-44 years,2000,2.901
+Colorectal Cancer,Age Group,35-44 years,2001,2.932
+Colorectal Cancer,Age Group,35-44 years,2002,2.964
+Colorectal Cancer,Age Group,35-44 years,2003,2.995
+Colorectal Cancer,Age Group,35-44 years,2004,3.028
+Colorectal Cancer,Age Group,35-44 years,2005,3.06
+Colorectal Cancer,Age Group,35-44 years,2006,3.093
+Colorectal Cancer,Age Group,35-44 years,2007,3.126
+Colorectal Cancer,Age Group,35-44 years,2008,3.16
+Colorectal Cancer,Age Group,35-44 years,2009,3.194
+Colorectal Cancer,Age Group,35-44 years,2010,3.228
+Colorectal Cancer,Age Group,35-44 years,2011,3.263
+Colorectal Cancer,Age Group,35-44 years,2012,3.298
+Colorectal Cancer,Age Group,35-44 years,2013,3.334
+Colorectal Cancer,Age Group,35-44 years,2014,3.37
+Colorectal Cancer,Age Group,35-44 years,2015,3.406
+Colorectal Cancer,Age Group,35-44 years,2016,3.442
+Colorectal Cancer,Age Group,35-44 years,2017,3.479
+Colorectal Cancer,Age Group,35-44 years,2018,3.517
+Colorectal Cancer,Age Group,35-44 years,2019,3.555
+Colorectal Cancer,Age Group,35-44 years,2020,3.593
+Colorectal Cancer,Age Group,35-44 years,2021,3.631
+Colorectal Cancer,Age Group,35-44 years,2022,3.671
+Colorectal Cancer,Age Group,35-44 years,2023,3.71
+Liver Metastasis,Age Group,35-44 years,1999,0.29
+Liver Metastasis,Age Group,35-44 years,2000,0.281
+Liver Metastasis,Age Group,35-44 years,2001,0.272
+Liver Metastasis,Age Group,35-44 years,2002,0.263
+Liver Metastasis,Age Group,35-44 years,2003,0.255
+Liver Metastasis,Age Group,35-44 years,2004,0.247
+Liver Metastasis,Age Group,35-44 years,2005,0.239
+Liver Metastasis,Age Group,35-44 years,2006,0.232
+Liver Metastasis,Age Group,35-44 years,2007,0.224
+Liver Metastasis,Age Group,35-44 years,2008,0.217
+Liver Metastasis,Age Group,35-44 years,2009,0.21
+Liver Metastasis,Age Group,35-44 years,2010,0.227
+Liver Metastasis,Age Group,35-44 years,2011,0.245
+Liver Metastasis,Age Group,35-44 years,2012,0.265
+Liver Metastasis,Age Group,35-44 years,2013,0.286
+Liver Metastasis,Age Group,35-44 years,2014,0.309
+Liver Metastasis,Age Group,35-44 years,2015,0.334
+Liver Metastasis,Age Group,35-44 years,2016,0.361
+Liver Metastasis,Age Group,35-44 years,2017,0.39
+Liver Metastasis,Age Group,35-44 years,2018,0.421
+Liver Metastasis,Age Group,35-44 years,2019,0.455
+Liver Metastasis,Age Group,35-44 years,2020,0.492
+Liver Metastasis,Age Group,35-44 years,2021,0.531
+Liver Metastasis,Age Group,35-44 years,2022,0.574
+Liver Metastasis,Age Group,35-44 years,2023,0.62
+Lung Metastasis,Age Group,35-44 years,1999,0.12
+Lung Metastasis,Age Group,35-44 years,2000,0.119
+Lung Metastasis,Age Group,35-44 years,2001,0.119
+Lung Metastasis,Age Group,35-44 years,2002,0.118
+Lung Metastasis,Age Group,35-44 years,2003,0.118
+Lung Metastasis,Age Group,35-44 years,2004,0.117
+Lung Metastasis,Age Group,35-44 years,2005,0.116
+Lung Metastasis,Age Group,35-44 years,2006,0.116
+Lung Metastasis,Age Group,35-44 years,2007,0.115
+Lung Metastasis,Age Group,35-44 years,2008,0.124
+Lung Metastasis,Age Group,35-44 years,2009,0.133
+Lung Metastasis,Age Group,35-44 years,2010,0.142
+Lung Metastasis,Age Group,35-44 years,2011,0.152
+Lung Metastasis,Age Group,35-44 years,2012,0.163
+Lung Metastasis,Age Group,35-44 years,2013,0.175
+Lung Metastasis,Age Group,35-44 years,2014,0.188
+Lung Metastasis,Age Group,35-44 years,2015,0.201
+Lung Metastasis,Age Group,35-44 years,2016,0.216
+Lung Metastasis,Age Group,35-44 years,2017,0.231
+Lung Metastasis,Age Group,35-44 years,2018,0.248
+Lung Metastasis,Age Group,35-44 years,2019,0.265
+Lung Metastasis,Age Group,35-44 years,2020,0.284
+Lung Metastasis,Age Group,35-44 years,2021,0.305
+Lung Metastasis,Age Group,35-44 years,2022,0.327
+Lung Metastasis,Age Group,35-44 years,2023,0.35
+Colorectal Cancer,Age Group,45-54 years,1999,10.88
+Colorectal Cancer,Age Group,45-54 years,2000,11.188
+Colorectal Cancer,Age Group,45-54 years,2001,11.505
+Colorectal Cancer,Age Group,45-54 years,2002,11.044
+Colorectal Cancer,Age Group,45-54 years,2003,10.601
+Colorectal Cancer,Age Group,45-54 years,2004,10.177
+Colorectal Cancer,Age Group,45-54 years,2005,10.272
+Colorectal Cancer,Age Group,45-54 years,2006,10.367
+Colorectal Cancer,Age Group,45-54 years,2007,10.464
+Colorectal Cancer,Age Group,45-54 years,2008,10.562
+Colorectal Cancer,Age Group,45-54 years,2009,10.66
+Colorectal Cancer,Age Group,45-54 years,2010,10.76
+Colorectal Cancer,Age Group,45-54 years,2011,10.86
+Colorectal Cancer,Age Group,45-54 years,2012,10.961
+Colorectal Cancer,Age Group,45-54 years,2013,11.064
+Colorectal Cancer,Age Group,45-54 years,2014,11.167
+Colorectal Cancer,Age Group,45-54 years,2015,11.271
+Colorectal Cancer,Age Group,45-54 years,2016,11.376
+Colorectal Cancer,Age Group,45-54 years,2017,11.482
+Colorectal Cancer,Age Group,45-54 years,2018,11.589
+Colorectal Cancer,Age Group,45-54 years,2019,11.697
+Colorectal Cancer,Age Group,45-54 years,2020,11.807
+Colorectal Cancer,Age Group,45-54 years,2021,11.917
+Colorectal Cancer,Age Group,45-54 years,2022,12.028
+Colorectal Cancer,Age Group,45-54 years,2023,12.14
+Liver Metastasis,Age Group,45-54 years,1999,1.26
+Liver Metastasis,Age Group,45-54 years,2000,1.179
+Liver Metastasis,Age Group,45-54 years,2001,1.104
+Liver Metastasis,Age Group,45-54 years,2002,1.033
+Liver Metastasis,Age Group,45-54 years,2003,0.967
+Liver Metastasis,Age Group,45-54 years,2004,0.905
+Liver Metastasis,Age Group,45-54 years,2005,0.847
+Liver Metastasis,Age Group,45-54 years,2006,0.793
+Liver Metastasis,Age Group,45-54 years,2007,0.801
+Liver Metastasis,Age Group,45-54 years,2008,0.809
+Liver Metastasis,Age Group,45-54 years,2009,0.818
+Liver Metastasis,Age Group,45-54 years,2010,0.826
+Liver Metastasis,Age Group,45-54 years,2011,0.835
+Liver Metastasis,Age Group,45-54 years,2012,0.844
+Liver Metastasis,Age Group,45-54 years,2013,0.852
+Liver Metastasis,Age Group,45-54 years,2014,0.993
+Liver Metastasis,Age Group,45-54 years,2015,1.158
+Liver Metastasis,Age Group,45-54 years,2016,1.349
+Liver Metastasis,Age Group,45-54 years,2017,1.425
+Liver Metastasis,Age Group,45-54 years,2018,1.505
+Liver Metastasis,Age Group,45-54 years,2019,1.59
+Liver Metastasis,Age Group,45-54 years,2020,1.68
+Liver Metastasis,Age Group,45-54 years,2021,1.774
+Liver Metastasis,Age Group,45-54 years,2022,1.874
+Liver Metastasis,Age Group,45-54 years,2023,1.98
+Lung Metastasis,Age Group,45-54 years,1999,0.48
+Lung Metastasis,Age Group,45-54 years,2000,0.461
+Lung Metastasis,Age Group,45-54 years,2001,0.442
+Lung Metastasis,Age Group,45-54 years,2002,0.424
+Lung Metastasis,Age Group,45-54 years,2003,0.407
+Lung Metastasis,Age Group,45-54 years,2004,0.391
+Lung Metastasis,Age Group,45-54 years,2005,0.375
+Lung Metastasis,Age Group,45-54 years,2006,0.389
+Lung Metastasis,Age Group,45-54 years,2007,0.403
+Lung Metastasis,Age Group,45-54 years,2008,0.418
+Lung Metastasis,Age Group,45-54 years,2009,0.433
+Lung Metastasis,Age Group,45-54 years,2010,0.449
+Lung Metastasis,Age Group,45-54 years,2011,0.465
+Lung Metastasis,Age Group,45-54 years,2012,0.482
+Lung Metastasis,Age Group,45-54 years,2013,0.5
+Lung Metastasis,Age Group,45-54 years,2014,0.574
+Lung Metastasis,Age Group,45-54 years,2015,0.66
+Lung Metastasis,Age Group,45-54 years,2016,0.759
+Lung Metastasis,Age Group,45-54 years,2017,0.872
+Lung Metastasis,Age Group,45-54 years,2018,0.92
+Lung Metastasis,Age Group,45-54 years,2019,0.97
+Lung Metastasis,Age Group,45-54 years,2020,1.023
+Lung Metastasis,Age Group,45-54 years,2021,1.079
+Lung Metastasis,Age Group,45-54 years,2022,1.138
+Lung Metastasis,Age Group,45-54 years,2023,1.2
+Colorectal Cancer,Age Group,55-64 years,1999,33.17
+Colorectal Cancer,Age Group,55-64 years,2000,32.02
+Colorectal Cancer,Age Group,55-64 years,2001,30.91
+Colorectal Cancer,Age Group,55-64 years,2002,29.838
+Colorectal Cancer,Age Group,55-64 years,2003,28.803
+Colorectal Cancer,Age Group,55-64 years,2004,27.804
+Colorectal Cancer,Age Group,55-64 years,2005,26.84
+Colorectal Cancer,Age Group,55-64 years,2006,26.509
+Colorectal Cancer,Age Group,55-64 years,2007,26.181
+Colorectal Cancer,Age Group,55-64 years,2008,25.858
+Colorectal Cancer,Age Group,55-64 years,2009,25.538
+Colorectal Cancer,Age Group,55-64 years,2010,25.222
+Colorectal Cancer,Age Group,55-64 years,2011,24.911
+Colorectal Cancer,Age Group,55-64 years,2012,24.603
+Colorectal Cancer,Age Group,55-64 years,2013,24.298
+Colorectal Cancer,Age Group,55-64 years,2014,24.295
+Colorectal Cancer,Age Group,55-64 years,2015,24.291
+Colorectal Cancer,Age Group,55-64 years,2016,24.287
+Colorectal Cancer,Age Group,55-64 years,2017,24.284
+Colorectal Cancer,Age Group,55-64 years,2018,24.28
+Colorectal Cancer,Age Group,55-64 years,2019,24.276
+Colorectal Cancer,Age Group,55-64 years,2020,24.272
+Colorectal Cancer,Age Group,55-64 years,2021,24.268
+Colorectal Cancer,Age Group,55-64 years,2022,24.264
+Colorectal Cancer,Age Group,55-64 years,2023,24.26
+Liver Metastasis,Age Group,55-64 years,1999,3.99
+Liver Metastasis,Age Group,55-64 years,2000,3.663
+Liver Metastasis,Age Group,55-64 years,2001,3.362
+Liver Metastasis,Age Group,55-64 years,2002,3.087
+Liver Metastasis,Age Group,55-64 years,2003,2.833
+Liver Metastasis,Age Group,55-64 years,2004,2.601
+Liver Metastasis,Age Group,55-64 years,2005,2.388
+Liver Metastasis,Age Group,55-64 years,2006,2.192
+Liver Metastasis,Age Group,55-64 years,2007,2.159
+Liver Metastasis,Age Group,55-64 years,2008,2.126
+Liver Metastasis,Age Group,55-64 years,2009,2.093
+Liver Metastasis,Age Group,55-64 years,2010,2.061
+Liver Metastasis,Age Group,55-64 years,2011,2.03
+Liver Metastasis,Age Group,55-64 years,2012,1.999
+Liver Metastasis,Age Group,55-64 years,2013,1.968
+Liver Metastasis,Age Group,55-64 years,2014,2.242
+Liver Metastasis,Age Group,55-64 years,2015,2.555
+Liver Metastasis,Age Group,55-64 years,2016,2.91
+Liver Metastasis,Age Group,55-64 years,2017,3.013
+Liver Metastasis,Age Group,55-64 years,2018,3.119
+Liver Metastasis,Age Group,55-64 years,2019,3.229
+Liver Metastasis,Age Group,55-64 years,2020,3.343
+Liver Metastasis,Age Group,55-64 years,2021,3.461
+Liver Metastasis,Age Group,55-64 years,2022,3.584
+Liver Metastasis,Age Group,55-64 years,2023,3.71
+Lung Metastasis,Age Group,55-64 years,1999,1.59
+Lung Metastasis,Age Group,55-64 years,2000,1.527
+Lung Metastasis,Age Group,55-64 years,2001,1.466
+Lung Metastasis,Age Group,55-64 years,2002,1.408
+Lung Metastasis,Age Group,55-64 years,2003,1.352
+Lung Metastasis,Age Group,55-64 years,2004,1.298
+Lung Metastasis,Age Group,55-64 years,2005,1.246
+Lung Metastasis,Age Group,55-64 years,2006,1.197
+Lung Metastasis,Age Group,55-64 years,2007,1.2
+Lung Metastasis,Age Group,55-64 years,2008,1.203
+Lung Metastasis,Age Group,55-64 years,2009,1.207
+Lung Metastasis,Age Group,55-64 years,2010,1.21
+Lung Metastasis,Age Group,55-64 years,2011,1.213
+Lung Metastasis,Age Group,55-64 years,2012,1.216
+Lung Metastasis,Age Group,55-64 years,2013,1.22
+Lung Metastasis,Age Group,55-64 years,2014,1.391
+Lung Metastasis,Age Group,55-64 years,2015,1.586
+Lung Metastasis,Age Group,55-64 years,2016,1.808
+Lung Metastasis,Age Group,55-64 years,2017,1.857
+Lung Metastasis,Age Group,55-64 years,2018,1.907
+Lung Metastasis,Age Group,55-64 years,2019,1.959
+Lung Metastasis,Age Group,55-64 years,2020,2.012
+Lung Metastasis,Age Group,55-64 years,2021,2.067
+Lung Metastasis,Age Group,55-64 years,2022,2.123
+Lung Metastasis,Age Group,55-64 years,2023,2.18
+Colorectal Cancer,Age Group,65-74 years,1999,76.81
+Colorectal Cancer,Age Group,65-74 years,2000,76.062
+Colorectal Cancer,Age Group,65-74 years,2001,75.321
+Colorectal Cancer,Age Group,65-74 years,2002,71.56
+Colorectal Cancer,Age Group,65-74 years,2003,67.986
+Colorectal Cancer,Age Group,65-74 years,2004,64.592
+Colorectal Cancer,Age Group,65-74 years,2005,62.309
+Colorectal Cancer,Age Group,65-74 years,2006,60.107
+Colorectal Cancer,Age Group,65-74 years,2007,57.983
+Colorectal Cancer,Age Group,65-74 years,2008,55.934
+Colorectal Cancer,Age Group,65-74 years,2009,53.958
+Colorectal Cancer,Age Group,65-74 years,2010,52.051
+Colorectal Cancer,Age Group,65-74 years,2011,50.212
+Colorectal Cancer,Age Group,65-74 years,2012,48.437
+Colorectal Cancer,Age Group,65-74 years,2013,46.726
+Colorectal Cancer,Age Group,65-74 years,2014,45.075
+Colorectal Cancer,Age Group,65-74 years,2015,44.149
+Colorectal Cancer,Age Group,65-74 years,2016,43.242
+Colorectal Cancer,Age Group,65-74 years,2017,42.354
+Colorectal Cancer,Age Group,65-74 years,2018,41.484
+Colorectal Cancer,Age Group,65-74 years,2019,40.632
+Colorectal Cancer,Age Group,65-74 years,2020,39.797
+Colorectal Cancer,Age Group,65-74 years,2021,39.812
+Colorectal Cancer,Age Group,65-74 years,2022,39.826
+Colorectal Cancer,Age Group,65-74 years,2023,39.84
+Liver Metastasis,Age Group,65-74 years,1999,9.34
+Liver Metastasis,Age Group,65-74 years,2000,8.473
+Liver Metastasis,Age Group,65-74 years,2001,7.686
+Liver Metastasis,Age Group,65-74 years,2002,6.972
+Liver Metastasis,Age Group,65-74 years,2003,6.325
+Liver Metastasis,Age Group,65-74 years,2004,5.737
+Liver Metastasis,Age Group,65-74 years,2005,5.205
+Liver Metastasis,Age Group,65-74 years,2006,4.721
+Liver Metastasis,Age Group,65-74 years,2007,4.283
+Liver Metastasis,Age Group,65-74 years,2008,3.885
+Liver Metastasis,Age Group,65-74 years,2009,3.861
+Liver Metastasis,Age Group,65-74 years,2010,3.836
+Liver Metastasis,Age Group,65-74 years,2011,3.812
+Liver Metastasis,Age Group,65-74 years,2012,3.788
+Liver Metastasis,Age Group,65-74 years,2013,3.764
+Liver Metastasis,Age Group,65-74 years,2014,3.74
+Liver Metastasis,Age Group,65-74 years,2015,4.087
+Liver Metastasis,Age Group,65-74 years,2016,4.466
+Liver Metastasis,Age Group,65-74 years,2017,4.88
+Liver Metastasis,Age Group,65-74 years,2018,4.951
+Liver Metastasis,Age Group,65-74 years,2019,5.023
+Liver Metastasis,Age Group,65-74 years,2020,5.095
+Liver Metastasis,Age Group,65-74 years,2021,5.169
+Liver Metastasis,Age Group,65-74 years,2022,5.244
+Liver Metastasis,Age Group,65-74 years,2023,5.32
+Lung Metastasis,Age Group,65-74 years,1999,3.76
+Lung Metastasis,Age Group,65-74 years,2000,3.629
+Lung Metastasis,Age Group,65-74 years,2001,3.503
+Lung Metastasis,Age Group,65-74 years,2002,3.381
+Lung Metastasis,Age Group,65-74 years,2003,3.263
+Lung Metastasis,Age Group,65-74 years,2004,3.15
+Lung Metastasis,Age Group,65-74 years,2005,3.04
+Lung Metastasis,Age Group,65-74 years,2006,2.934
+Lung Metastasis,Age Group,65-74 years,2007,2.832
+Lung Metastasis,Age Group,65-74 years,2008,2.734
+Lung Metastasis,Age Group,65-74 years,2009,2.639
+Lung Metastasis,Age Group,65-74 years,2010,2.547
+Lung Metastasis,Age Group,65-74 years,2011,2.458
+Lung Metastasis,Age Group,65-74 years,2012,2.373
+Lung Metastasis,Age Group,65-74 years,2013,2.29
+Lung Metastasis,Age Group,65-74 years,2014,2.504
+Lung Metastasis,Age Group,65-74 years,2015,2.737
+Lung Metastasis,Age Group,65-74 years,2016,2.993
+Lung Metastasis,Age Group,65-74 years,2017,3.032
+Lung Metastasis,Age Group,65-74 years,2018,3.072
+Lung Metastasis,Age Group,65-74 years,2019,3.113
+Lung Metastasis,Age Group,65-74 years,2020,3.154
+Lung Metastasis,Age Group,65-74 years,2021,3.195
+Lung Metastasis,Age Group,65-74 years,2022,3.237
+Lung Metastasis,Age Group,65-74 years,2023,3.28
+Colorectal Cancer,Age Group,75-84 years,1999,145.84
+Colorectal Cancer,Age Group,75-84 years,2000,141.421
+Colorectal Cancer,Age Group,75-84 years,2001,137.135
+Colorectal Cancer,Age Group,75-84 years,2002,132.979
+Colorectal Cancer,Age Group,75-84 years,2003,128.948
+Colorectal Cancer,Age Group,75-84 years,2004,125.039
+Colorectal Cancer,Age Group,75-84 years,2005,121.248
+Colorectal Cancer,Age Group,75-84 years,2006,117.572
+Colorectal Cancer,Age Group,75-84 years,2007,114.007
+Colorectal Cancer,Age Group,75-84 years,2008,110.55
+Colorectal Cancer,Age Group,75-84 years,2009,107.197
+Colorectal Cancer,Age Group,75-84 years,2010,103.946
+Colorectal Cancer,Age Group,75-84 years,2011,100.793
+Colorectal Cancer,Age Group,75-84 years,2012,97.735
+Colorectal Cancer,Age Group,75-84 years,2013,94.77
+Colorectal Cancer,Age Group,75-84 years,2014,91.894
+Colorectal Cancer,Age Group,75-84 years,2015,89.106
+Colorectal Cancer,Age Group,75-84 years,2016,86.401
+Colorectal Cancer,Age Group,75-84 years,2017,83.779
+Colorectal Cancer,Age Group,75-84 years,2018,81.236
+Colorectal Cancer,Age Group,75-84 years,2019,78.77
+Colorectal Cancer,Age Group,75-84 years,2020,76.379
+Colorectal Cancer,Age Group,75-84 years,2021,74.06
+Colorectal Cancer,Age Group,75-84 years,2022,71.811
+Colorectal Cancer,Age Group,75-84 years,2023,69.63
+Liver Metastasis,Age Group,75-84 years,1999,15.09
+Liver Metastasis,Age Group,75-84 years,2000,13.838
+Liver Metastasis,Age Group,75-84 years,2001,12.69
+Liver Metastasis,Age Group,75-84 years,2002,11.636
+Liver Metastasis,Age Group,75-84 years,2003,10.671
+Liver Metastasis,Age Group,75-84 years,2004,9.785
+Liver Metastasis,Age Group,75-84 years,2005,8.973
+Liver Metastasis,Age Group,75-84 years,2006,8.228
+Liver Metastasis,Age Group,75-84 years,2007,7.545
+Liver Metastasis,Age Group,75-84 years,2008,6.919
+Liver Metastasis,Age Group,75-84 years,2009,6.344
+Liver Metastasis,Age Group,75-84 years,2010,6.455
+Liver Metastasis,Age Group,75-84 years,2011,6.568
+Liver Metastasis,Age Group,75-84 years,2012,6.682
+Liver Metastasis,Age Group,75-84 years,2013,6.799
+Liver Metastasis,Age Group,75-84 years,2014,6.917
+Liver Metastasis,Age Group,75-84 years,2015,7.038
+Liver Metastasis,Age Group,75-84 years,2016,7.161
+Liver Metastasis,Age Group,75-84 years,2017,7.285
+Liver Metastasis,Age Group,75-84 years,2018,7.412
+Liver Metastasis,Age Group,75-84 years,2019,7.541
+Liver Metastasis,Age Group,75-84 years,2020,7.673
+Liver Metastasis,Age Group,75-84 years,2021,7.806
+Liver Metastasis,Age Group,75-84 years,2022,7.942
+Liver Metastasis,Age Group,75-84 years,2023,8.08
+Lung Metastasis,Age Group,75-84 years,1999,6.54
+Lung Metastasis,Age Group,75-84 years,2000,6.256
+Lung Metastasis,Age Group,75-84 years,2001,5.985
+Lung Metastasis,Age Group,75-84 years,2002,5.725
+Lung Metastasis,Age Group,75-84 years,2003,5.477
+Lung Metastasis,Age Group,75-84 years,2004,5.239
+Lung Metastasis,Age Group,75-84 years,2005,5.012
+Lung Metastasis,Age Group,75-84 years,2006,4.794
+Lung Metastasis,Age Group,75-84 years,2007,4.586
+Lung Metastasis,Age Group,75-84 years,2008,4.387
+Lung Metastasis,Age Group,75-84 years,2009,4.425
+Lung Metastasis,Age Group,75-84 years,2010,4.463
+Lung Metastasis,Age Group,75-84 years,2011,4.502
+Lung Metastasis,Age Group,75-84 years,2012,4.541
+Lung Metastasis,Age Group,75-84 years,2013,4.58
+Lung Metastasis,Age Group,75-84 years,2014,4.619
+Lung Metastasis,Age Group,75-84 years,2015,4.659
+Lung Metastasis,Age Group,75-84 years,2016,4.699
+Lung Metastasis,Age Group,75-84 years,2017,4.74
+Lung Metastasis,Age Group,75-84 years,2018,4.78
+Lung Metastasis,Age Group,75-84 years,2019,4.822
+Lung Metastasis,Age Group,75-84 years,2020,4.863
+Lung Metastasis,Age Group,75-84 years,2021,4.905
+Lung Metastasis,Age Group,75-84 years,2022,4.947
+Lung Metastasis,Age Group,75-84 years,2023,4.99
+Colorectal Cancer,Age Group,85+ years,1999,270.27
+Colorectal Cancer,Age Group,85+ years,2000,262.636
+Colorectal Cancer,Age Group,85+ years,2001,255.216
+Colorectal Cancer,Age Group,85+ years,2002,248.006
+Colorectal Cancer,Age Group,85+ years,2003,240.999
+Colorectal Cancer,Age Group,85+ years,2004,234.19
+Colorectal Cancer,Age Group,85+ years,2005,227.573
+Colorectal Cancer,Age Group,85+ years,2006,221.142
+Colorectal Cancer,Age Group,85+ years,2007,214.892
+Colorectal Cancer,Age Group,85+ years,2008,208.819
+Colorectal Cancer,Age Group,85+ years,2009,202.917
+Colorectal Cancer,Age Group,85+ years,2010,197.181
+Colorectal Cancer,Age Group,85+ years,2011,191.608
+Colorectal Cancer,Age Group,85+ years,2012,186.191
+Colorectal Cancer,Age Group,85+ years,2013,180.927
+Colorectal Cancer,Age Group,85+ years,2014,175.812
+Colorectal Cancer,Age Group,85+ years,2015,170.841
+Colorectal Cancer,Age Group,85+ years,2016,166.01
+Colorectal Cancer,Age Group,85+ years,2017,161.315
+Colorectal Cancer,Age Group,85+ years,2018,156.753
+Colorectal Cancer,Age Group,85+ years,2019,156.935
+Colorectal Cancer,Age Group,85+ years,2020,157.116
+Colorectal Cancer,Age Group,85+ years,2021,157.298
+Colorectal Cancer,Age Group,85+ years,2022,157.479
+Colorectal Cancer,Age Group,85+ years,2023,157.66
+Liver Metastasis,Age Group,85+ years,1999,17.26
+Liver Metastasis,Age Group,85+ years,2000,16.158
+Liver Metastasis,Age Group,85+ years,2001,15.127
+Liver Metastasis,Age Group,85+ years,2002,14.162
+Liver Metastasis,Age Group,85+ years,2003,13.258
+Liver Metastasis,Age Group,85+ years,2004,12.411
+Liver Metastasis,Age Group,85+ years,2005,11.619
+Liver Metastasis,Age Group,85+ years,2006,10.878
+Liver Metastasis,Age Group,85+ years,2007,10.183
+Liver Metastasis,Age Group,85+ years,2008,9.533
+Liver Metastasis,Age Group,85+ years,2009,8.925
+Liver Metastasis,Age Group,85+ years,2010,8.355
+Liver Metastasis,Age Group,85+ years,2011,8.628
+Liver Metastasis,Age Group,85+ years,2012,8.91
+Liver Metastasis,Age Group,85+ years,2013,9.201
+Liver Metastasis,Age Group,85+ years,2014,9.502
+Liver Metastasis,Age Group,85+ years,2015,9.812
+Liver Metastasis,Age Group,85+ years,2016,10.133
+Liver Metastasis,Age Group,85+ years,2017,10.464
+Liver Metastasis,Age Group,85+ years,2018,10.806
+Liver Metastasis,Age Group,85+ years,2019,11.159
+Liver Metastasis,Age Group,85+ years,2020,11.523
+Liver Metastasis,Age Group,85+ years,2021,11.9
+Liver Metastasis,Age Group,85+ years,2022,12.289
+Liver Metastasis,Age Group,85+ years,2023,12.69
+Lung Metastasis,Age Group,85+ years,1999,8.04
+Lung Metastasis,Age Group,85+ years,2000,7.748
+Lung Metastasis,Age Group,85+ years,2001,7.467
+Lung Metastasis,Age Group,85+ years,2002,7.196
+Lung Metastasis,Age Group,85+ years,2003,6.935
+Lung Metastasis,Age Group,85+ years,2004,6.684
+Lung Metastasis,Age Group,85+ years,2005,6.441
+Lung Metastasis,Age Group,85+ years,2006,6.207
+Lung Metastasis,Age Group,85+ years,2007,5.982
+Lung Metastasis,Age Group,85+ years,2008,5.765
+Lung Metastasis,Age Group,85+ years,2009,5.556
+Lung Metastasis,Age Group,85+ years,2010,5.354
+Lung Metastasis,Age Group,85+ years,2011,5.514
+Lung Metastasis,Age Group,85+ years,2012,5.679
+Lung Metastasis,Age Group,85+ years,2013,5.849
+Lung Metastasis,Age Group,85+ years,2014,6.023
+Lung Metastasis,Age Group,85+ years,2015,6.203
+Lung Metastasis,Age Group,85+ years,2016,6.389
+Lung Metastasis,Age Group,85+ years,2017,6.579
+Lung Metastasis,Age Group,85+ years,2018,6.776
+Lung Metastasis,Age Group,85+ years,2019,6.978
+Lung Metastasis,Age Group,85+ years,2020,7.187
+Lung Metastasis,Age Group,85+ years,2021,7.401
+Lung Metastasis,Age Group,85+ years,2022,7.622
+Lung Metastasis,Age Group,85+ years,2023,7.85
+Colorectal Cancer,Census Region,Midwest,1999,33.99
+Colorectal Cancer,Census Region,Midwest,2000,33.044
+Colorectal Cancer,Census Region,Midwest,2001,32.123
+Colorectal Cancer,Census Region,Midwest,2002,31.229
+Colorectal Cancer,Census Region,Midwest,2003,30.359
+Colorectal Cancer,Census Region,Midwest,2004,29.514
+Colorectal Cancer,Census Region,Midwest,2005,28.692
+Colorectal Cancer,Census Region,Midwest,2006,27.893
+Colorectal Cancer,Census Region,Midwest,2007,27.116
+Colorectal Cancer,Census Region,Midwest,2008,26.361
+Colorectal Cancer,Census Region,Midwest,2009,25.627
+Colorectal Cancer,Census Region,Midwest,2010,24.913
+Colorectal Cancer,Census Region,Midwest,2011,24.219
+Colorectal Cancer,Census Region,Midwest,2012,23.545
+Colorectal Cancer,Census Region,Midwest,2013,23.212
+Colorectal Cancer,Census Region,Midwest,2014,22.884
+Colorectal Cancer,Census Region,Midwest,2015,22.56
+Colorectal Cancer,Census Region,Midwest,2016,22.241
+Colorectal Cancer,Census Region,Midwest,2017,21.926
+Colorectal Cancer,Census Region,Midwest,2018,21.616
+Colorectal Cancer,Census Region,Midwest,2019,21.31
+Colorectal Cancer,Census Region,Midwest,2020,21.009
+Colorectal Cancer,Census Region,Midwest,2021,20.712
+Colorectal Cancer,Census Region,Midwest,2022,20.419
+Colorectal Cancer,Census Region,Midwest,2023,20.13
+Liver Metastasis,Census Region,Midwest,1999,3.75
+Liver Metastasis,Census Region,Midwest,2000,3.432
+Liver Metastasis,Census Region,Midwest,2001,3.141
+Liver Metastasis,Census Region,Midwest,2002,2.874
+Liver Metastasis,Census Region,Midwest,2003,2.63
+Liver Metastasis,Census Region,Midwest,2004,2.407
+Liver Metastasis,Census Region,Midwest,2005,2.203
+Liver Metastasis,Census Region,Midwest,2006,2.016
+Liver Metastasis,Census Region,Midwest,2007,1.845
+Liver Metastasis,Census Region,Midwest,2008,1.688
+Liver Metastasis,Census Region,Midwest,2009,1.545
+Liver Metastasis,Census Region,Midwest,2010,1.523
+Liver Metastasis,Census Region,Midwest,2011,1.502
+Liver Metastasis,Census Region,Midwest,2012,1.481
+Liver Metastasis,Census Region,Midwest,2013,1.461
+Liver Metastasis,Census Region,Midwest,2014,1.625
+Liver Metastasis,Census Region,Midwest,2015,1.808
+Liver Metastasis,Census Region,Midwest,2016,2.011
+Liver Metastasis,Census Region,Midwest,2017,2.104
+Liver Metastasis,Census Region,Midwest,2018,2.202
+Liver Metastasis,Census Region,Midwest,2019,2.303
+Liver Metastasis,Census Region,Midwest,2020,2.41
+Liver Metastasis,Census Region,Midwest,2021,2.521
+Liver Metastasis,Census Region,Midwest,2022,2.638
+Liver Metastasis,Census Region,Midwest,2023,2.76
+Lung Metastasis,Census Region,Midwest,1999,1.39
+Lung Metastasis,Census Region,Midwest,2000,1.343
+Lung Metastasis,Census Region,Midwest,2001,1.298
+Lung Metastasis,Census Region,Midwest,2002,1.255
+Lung Metastasis,Census Region,Midwest,2003,1.213
+Lung Metastasis,Census Region,Midwest,2004,1.172
+Lung Metastasis,Census Region,Midwest,2005,1.132
+Lung Metastasis,Census Region,Midwest,2006,1.094
+Lung Metastasis,Census Region,Midwest,2007,1.058
+Lung Metastasis,Census Region,Midwest,2008,1.022
+Lung Metastasis,Census Region,Midwest,2009,0.988
+Lung Metastasis,Census Region,Midwest,2010,0.954
+Lung Metastasis,Census Region,Midwest,2011,0.922
+Lung Metastasis,Census Region,Midwest,2012,0.968
+Lung Metastasis,Census Region,Midwest,2013,1.015
+Lung Metastasis,Census Region,Midwest,2014,1.065
+Lung Metastasis,Census Region,Midwest,2015,1.118
+Lung Metastasis,Census Region,Midwest,2016,1.172
+Lung Metastasis,Census Region,Midwest,2017,1.23
+Lung Metastasis,Census Region,Midwest,2018,1.29
+Lung Metastasis,Census Region,Midwest,2019,1.354
+Lung Metastasis,Census Region,Midwest,2020,1.42
+Lung Metastasis,Census Region,Midwest,2021,1.49
+Lung Metastasis,Census Region,Midwest,2022,1.563
+Lung Metastasis,Census Region,Midwest,2023,1.64
+Colorectal Cancer,Census Region,Northeast,1999,35.03
+Colorectal Cancer,Census Region,Northeast,2000,33.783
+Colorectal Cancer,Census Region,Northeast,2001,32.58
+Colorectal Cancer,Census Region,Northeast,2002,31.419
+Colorectal Cancer,Census Region,Northeast,2003,30.3
+Colorectal Cancer,Census Region,Northeast,2004,29.221
+Colorectal Cancer,Census Region,Northeast,2005,28.18
+Colorectal Cancer,Census Region,Northeast,2006,27.176
+Colorectal Cancer,Census Region,Northeast,2007,26.207
+Colorectal Cancer,Census Region,Northeast,2008,25.273
+Colorectal Cancer,Census Region,Northeast,2009,24.373
+Colorectal Cancer,Census Region,Northeast,2010,23.785
+Colorectal Cancer,Census Region,Northeast,2011,23.211
+Colorectal Cancer,Census Region,Northeast,2012,22.651
+Colorectal Cancer,Census Region,Northeast,2013,22.104
+Colorectal Cancer,Census Region,Northeast,2014,21.571
+Colorectal Cancer,Census Region,Northeast,2015,21.05
+Colorectal Cancer,Census Region,Northeast,2016,20.542
+Colorectal Cancer,Census Region,Northeast,2017,20.046
+Colorectal Cancer,Census Region,Northeast,2018,19.562
+Colorectal Cancer,Census Region,Northeast,2019,19.089
+Colorectal Cancer,Census Region,Northeast,2020,18.628
+Colorectal Cancer,Census Region,Northeast,2021,18.178
+Colorectal Cancer,Census Region,Northeast,2022,17.739
+Colorectal Cancer,Census Region,Northeast,2023,17.31
+Liver Metastasis,Census Region,Northeast,1999,3.53
+Liver Metastasis,Census Region,Northeast,2000,3.21
+Liver Metastasis,Census Region,Northeast,2001,2.919
+Liver Metastasis,Census Region,Northeast,2002,2.655
+Liver Metastasis,Census Region,Northeast,2003,2.414
+Liver Metastasis,Census Region,Northeast,2004,2.196
+Liver Metastasis,Census Region,Northeast,2005,1.997
+Liver Metastasis,Census Region,Northeast,2006,1.816
+Liver Metastasis,Census Region,Northeast,2007,1.651
+Liver Metastasis,Census Region,Northeast,2008,1.501
+Liver Metastasis,Census Region,Northeast,2009,1.365
+Liver Metastasis,Census Region,Northeast,2010,1.242
+Liver Metastasis,Census Region,Northeast,2011,1.255
+Liver Metastasis,Census Region,Northeast,2012,1.269
+Liver Metastasis,Census Region,Northeast,2013,1.283
+Liver Metastasis,Census Region,Northeast,2014,1.297
+Liver Metastasis,Census Region,Northeast,2015,1.311
+Liver Metastasis,Census Region,Northeast,2016,1.325
+Liver Metastasis,Census Region,Northeast,2017,1.34
+Liver Metastasis,Census Region,Northeast,2018,1.354
+Liver Metastasis,Census Region,Northeast,2019,1.369
+Liver Metastasis,Census Region,Northeast,2020,1.384
+Liver Metastasis,Census Region,Northeast,2021,1.399
+Liver Metastasis,Census Region,Northeast,2022,1.415
+Liver Metastasis,Census Region,Northeast,2023,1.43
+Lung Metastasis,Census Region,Northeast,1999,1.38
+Lung Metastasis,Census Region,Northeast,2000,1.317
+Lung Metastasis,Census Region,Northeast,2001,1.257
+Lung Metastasis,Census Region,Northeast,2002,1.199
+Lung Metastasis,Census Region,Northeast,2003,1.144
+Lung Metastasis,Census Region,Northeast,2004,1.092
+Lung Metastasis,Census Region,Northeast,2005,1.042
+Lung Metastasis,Census Region,Northeast,2006,0.994
+Lung Metastasis,Census Region,Northeast,2007,0.949
+Lung Metastasis,Census Region,Northeast,2008,0.905
+Lung Metastasis,Census Region,Northeast,2009,0.864
+Lung Metastasis,Census Region,Northeast,2010,0.824
+Lung Metastasis,Census Region,Northeast,2011,0.828
+Lung Metastasis,Census Region,Northeast,2012,0.833
+Lung Metastasis,Census Region,Northeast,2013,0.837
+Lung Metastasis,Census Region,Northeast,2014,0.841
+Lung Metastasis,Census Region,Northeast,2015,0.845
+Lung Metastasis,Census Region,Northeast,2016,0.85
+Lung Metastasis,Census Region,Northeast,2017,0.854
+Lung Metastasis,Census Region,Northeast,2018,0.858
+Lung Metastasis,Census Region,Northeast,2019,0.863
+Lung Metastasis,Census Region,Northeast,2020,0.867
+Lung Metastasis,Census Region,Northeast,2021,0.871
+Lung Metastasis,Census Region,Northeast,2022,0.876
+Lung Metastasis,Census Region,Northeast,2023,0.88
+Colorectal Cancer,Census Region,South,1999,31.33
+Colorectal Cancer,Census Region,South,2000,30.602
+Colorectal Cancer,Census Region,South,2001,29.89
+Colorectal Cancer,Census Region,South,2002,29.196
+Colorectal Cancer,Census Region,South,2003,28.517
+Colorectal Cancer,Census Region,South,2004,27.854
+Colorectal Cancer,Census Region,South,2005,27.206
+Colorectal Cancer,Census Region,South,2006,26.574
+Colorectal Cancer,Census Region,South,2007,25.956
+Colorectal Cancer,Census Region,South,2008,25.352
+Colorectal Cancer,Census Region,South,2009,24.763
+Colorectal Cancer,Census Region,South,2010,24.187
+Colorectal Cancer,Census Region,South,2011,23.624
+Colorectal Cancer,Census Region,South,2012,23.075
+Colorectal Cancer,Census Region,South,2013,22.737
+Colorectal Cancer,Census Region,South,2014,22.404
+Colorectal Cancer,Census Region,South,2015,22.075
+Colorectal Cancer,Census Region,South,2016,21.752
+Colorectal Cancer,Census Region,South,2017,21.433
+Colorectal Cancer,Census Region,South,2018,21.119
+Colorectal Cancer,Census Region,South,2019,20.81
+Colorectal Cancer,Census Region,South,2020,20.505
+Colorectal Cancer,Census Region,South,2021,20.711
+Colorectal Cancer,Census Region,South,2022,20.919
+Colorectal Cancer,Census Region,South,2023,21.13
+Liver Metastasis,Census Region,South,1999,3.28
+Liver Metastasis,Census Region,South,2000,3.039
+Liver Metastasis,Census Region,South,2001,2.816
+Liver Metastasis,Census Region,South,2002,2.61
+Liver Metastasis,Census Region,South,2003,2.418
+Liver Metastasis,Census Region,South,2004,2.241
+Liver Metastasis,Census Region,South,2005,2.076
+Liver Metastasis,Census Region,South,2006,1.924
+Liver Metastasis,Census Region,South,2007,1.783
+Liver Metastasis,Census Region,South,2008,1.763
+Liver Metastasis,Census Region,South,2009,1.743
+Liver Metastasis,Census Region,South,2010,1.724
+Liver Metastasis,Census Region,South,2011,1.705
+Liver Metastasis,Census Region,South,2012,1.686
+Liver Metastasis,Census Region,South,2013,1.834
+Liver Metastasis,Census Region,South,2014,1.995
+Liver Metastasis,Census Region,South,2015,2.17
+Liver Metastasis,Census Region,South,2016,2.36
+Liver Metastasis,Census Region,South,2017,2.428
+Liver Metastasis,Census Region,South,2018,2.498
+Liver Metastasis,Census Region,South,2019,2.57
+Liver Metastasis,Census Region,South,2020,2.644
+Liver Metastasis,Census Region,South,2021,2.721
+Liver Metastasis,Census Region,South,2022,2.799
+Liver Metastasis,Census Region,South,2023,2.88
+Lung Metastasis,Census Region,South,1999,1.41
+Lung Metastasis,Census Region,South,2000,1.358
+Lung Metastasis,Census Region,South,2001,1.309
+Lung Metastasis,Census Region,South,2002,1.261
+Lung Metastasis,Census Region,South,2003,1.214
+Lung Metastasis,Census Region,South,2004,1.17
+Lung Metastasis,Census Region,South,2005,1.127
+Lung Metastasis,Census Region,South,2006,1.086
+Lung Metastasis,Census Region,South,2007,1.046
+Lung Metastasis,Census Region,South,2008,1.008
+Lung Metastasis,Census Region,South,2009,1.017
+Lung Metastasis,Census Region,South,2010,1.027
+Lung Metastasis,Census Region,South,2011,1.037
+Lung Metastasis,Census Region,South,2012,1.047
+Lung Metastasis,Census Region,South,2013,1.057
+Lung Metastasis,Census Region,South,2014,1.167
+Lung Metastasis,Census Region,South,2015,1.288
+Lung Metastasis,Census Region,South,2016,1.421
+Lung Metastasis,Census Region,South,2017,1.46
+Lung Metastasis,Census Region,South,2018,1.499
+Lung Metastasis,Census Region,South,2019,1.539
+Lung Metastasis,Census Region,South,2020,1.58
+Lung Metastasis,Census Region,South,2021,1.622
+Lung Metastasis,Census Region,South,2022,1.665
+Lung Metastasis,Census Region,South,2023,1.71
+Colorectal Cancer,Census Region,West,1999,27.79
+Colorectal Cancer,Census Region,West,2000,27.168
+Colorectal Cancer,Census Region,West,2001,26.561
+Colorectal Cancer,Census Region,West,2002,25.966
+Colorectal Cancer,Census Region,West,2003,25.385
+Colorectal Cancer,Census Region,West,2004,24.818
+Colorectal Cancer,Census Region,West,2005,24.262
+Colorectal Cancer,Census Region,West,2006,23.72
+Colorectal Cancer,Census Region,West,2007,23.189
+Colorectal Cancer,Census Region,West,2008,22.67
+Colorectal Cancer,Census Region,West,2009,22.163
+Colorectal Cancer,Census Region,West,2010,21.667
+Colorectal Cancer,Census Region,West,2011,21.182
+Colorectal Cancer,Census Region,West,2012,20.709
+Colorectal Cancer,Census Region,West,2013,20.245
+Colorectal Cancer,Census Region,West,2014,19.792
+Colorectal Cancer,Census Region,West,2015,19.35
+Colorectal Cancer,Census Region,West,2016,18.917
+Colorectal Cancer,Census Region,West,2017,18.494
+Colorectal Cancer,Census Region,West,2018,18.08
+Colorectal Cancer,Census Region,West,2019,18.126
+Colorectal Cancer,Census Region,West,2020,18.172
+Colorectal Cancer,Census Region,West,2021,18.218
+Colorectal Cancer,Census Region,West,2022,18.264
+Colorectal Cancer,Census Region,West,2023,18.31
+Liver Metastasis,Census Region,West,1999,2.57
+Liver Metastasis,Census Region,West,2000,2.383
+Liver Metastasis,Census Region,West,2001,2.21
+Liver Metastasis,Census Region,West,2002,2.05
+Liver Metastasis,Census Region,West,2003,1.901
+Liver Metastasis,Census Region,West,2004,1.763
+Liver Metastasis,Census Region,West,2005,1.635
+Liver Metastasis,Census Region,West,2006,1.516
+Liver Metastasis,Census Region,West,2007,1.538
+Liver Metastasis,Census Region,West,2008,1.56
+Liver Metastasis,Census Region,West,2009,1.583
+Liver Metastasis,Census Region,West,2010,1.605
+Liver Metastasis,Census Region,West,2011,1.629
+Liver Metastasis,Census Region,West,2012,1.652
+Liver Metastasis,Census Region,West,2013,1.676
+Liver Metastasis,Census Region,West,2014,1.7
+Liver Metastasis,Census Region,West,2015,1.884
+Liver Metastasis,Census Region,West,2016,2.088
+Liver Metastasis,Census Region,West,2017,2.314
+Liver Metastasis,Census Region,West,2018,2.343
+Liver Metastasis,Census Region,West,2019,2.372
+Liver Metastasis,Census Region,West,2020,2.401
+Liver Metastasis,Census Region,West,2021,2.43
+Liver Metastasis,Census Region,West,2022,2.46
+Liver Metastasis,Census Region,West,2023,2.49
+Lung Metastasis,Census Region,West,1999,1.25
+Lung Metastasis,Census Region,West,2000,1.133
+Lung Metastasis,Census Region,West,2001,1.027
+Lung Metastasis,Census Region,West,2002,0.931
+Lung Metastasis,Census Region,West,2003,0.844
+Lung Metastasis,Census Region,West,2004,0.863
+Lung Metastasis,Census Region,West,2005,0.883
+Lung Metastasis,Census Region,West,2006,0.903
+Lung Metastasis,Census Region,West,2007,0.924
+Lung Metastasis,Census Region,West,2008,0.945
+Lung Metastasis,Census Region,West,2009,0.967
+Lung Metastasis,Census Region,West,2010,0.99
+Lung Metastasis,Census Region,West,2011,1.012
+Lung Metastasis,Census Region,West,2012,1.036
+Lung Metastasis,Census Region,West,2013,1.06
+Lung Metastasis,Census Region,West,2014,1.084
+Lung Metastasis,Census Region,West,2015,1.218
+Lung Metastasis,Census Region,West,2016,1.369
+Lung Metastasis,Census Region,West,2017,1.538
+Lung Metastasis,Census Region,West,2018,1.543
+Lung Metastasis,Census Region,West,2019,1.549
+Lung Metastasis,Census Region,West,2020,1.554
+Lung Metastasis,Census Region,West,2021,1.559
+Lung Metastasis,Census Region,West,2022,1.565
+Lung Metastasis,Census Region,West,2023,1.57
+Colorectal Cancer,Urbanization,Nonmetropolitan,1999,31.62
+Colorectal Cancer,Urbanization,Nonmetropolitan,2000,30.839
+Colorectal Cancer,Urbanization,Nonmetropolitan,2001,30.077
+Colorectal Cancer,Urbanization,Nonmetropolitan,2002,29.334
+Colorectal Cancer,Urbanization,Nonmetropolitan,2003,28.61
+Colorectal Cancer,Urbanization,Nonmetropolitan,2004,27.903
+Colorectal Cancer,Urbanization,Nonmetropolitan,2005,27.214
+Colorectal Cancer,Urbanization,Nonmetropolitan,2006,26.542
+Colorectal Cancer,Urbanization,Nonmetropolitan,2007,26.149
+Colorectal Cancer,Urbanization,Nonmetropolitan,2008,25.762
+Colorectal Cancer,Urbanization,Nonmetropolitan,2009,25.381
+Colorectal Cancer,Urbanization,Nonmetropolitan,2010,25.005
+Colorectal Cancer,Urbanization,Nonmetropolitan,2011,24.635
+Colorectal Cancer,Urbanization,Nonmetropolitan,2012,24.27
+Colorectal Cancer,Urbanization,Nonmetropolitan,2013,23.911
+Colorectal Cancer,Urbanization,Nonmetropolitan,2014,23.557
+Colorectal Cancer,Urbanization,Nonmetropolitan,2015,23.209
+Colorectal Cancer,Urbanization,Nonmetropolitan,2016,22.865
+Colorectal Cancer,Urbanization,Nonmetropolitan,2017,22.527
+Colorectal Cancer,Urbanization,Nonmetropolitan,2018,22.193
+Colorectal Cancer,Urbanization,Nonmetropolitan,2019,21.865
+Colorectal Cancer,Urbanization,Nonmetropolitan,2020,21.541
+Colorectal Cancer,Urbanization,Nonmetropolitan,2021,0.0
+Colorectal Cancer,Urbanization,Nonmetropolitan,2022,0.0
+Colorectal Cancer,Urbanization,Nonmetropolitan,2023,0.0
+Liver Metastasis,Urbanization,Nonmetropolitan,1999,3.36
+Liver Metastasis,Urbanization,Nonmetropolitan,2000,3.148
+Liver Metastasis,Urbanization,Nonmetropolitan,2001,2.949
+Liver Metastasis,Urbanization,Nonmetropolitan,2002,2.762
+Liver Metastasis,Urbanization,Nonmetropolitan,2003,2.588
+Liver Metastasis,Urbanization,Nonmetropolitan,2004,2.424
+Liver Metastasis,Urbanization,Nonmetropolitan,2005,2.271
+Liver Metastasis,Urbanization,Nonmetropolitan,2006,2.127
+Liver Metastasis,Urbanization,Nonmetropolitan,2007,1.993
+Liver Metastasis,Urbanization,Nonmetropolitan,2008,1.867
+Liver Metastasis,Urbanization,Nonmetropolitan,2009,1.749
+Liver Metastasis,Urbanization,Nonmetropolitan,2010,1.639
+Liver Metastasis,Urbanization,Nonmetropolitan,2011,1.728
+Liver Metastasis,Urbanization,Nonmetropolitan,2012,1.822
+Liver Metastasis,Urbanization,Nonmetropolitan,2013,1.921
+Liver Metastasis,Urbanization,Nonmetropolitan,2014,2.026
+Liver Metastasis,Urbanization,Nonmetropolitan,2015,2.136
+Liver Metastasis,Urbanization,Nonmetropolitan,2016,2.253
+Liver Metastasis,Urbanization,Nonmetropolitan,2017,2.376
+Liver Metastasis,Urbanization,Nonmetropolitan,2018,2.505
+Liver Metastasis,Urbanization,Nonmetropolitan,2019,2.642
+Liver Metastasis,Urbanization,Nonmetropolitan,2020,2.786
+Liver Metastasis,Urbanization,Nonmetropolitan,2021,0.0
+Liver Metastasis,Urbanization,Nonmetropolitan,2022,0.0
+Liver Metastasis,Urbanization,Nonmetropolitan,2023,0.0
+Lung Metastasis,Urbanization,Nonmetropolitan,1999,1.51
+Lung Metastasis,Urbanization,Nonmetropolitan,2000,1.459
+Lung Metastasis,Urbanization,Nonmetropolitan,2001,1.411
+Lung Metastasis,Urbanization,Nonmetropolitan,2002,1.363
+Lung Metastasis,Urbanization,Nonmetropolitan,2003,1.318
+Lung Metastasis,Urbanization,Nonmetropolitan,2004,1.273
+Lung Metastasis,Urbanization,Nonmetropolitan,2005,1.231
+Lung Metastasis,Urbanization,Nonmetropolitan,2006,1.19
+Lung Metastasis,Urbanization,Nonmetropolitan,2007,1.15
+Lung Metastasis,Urbanization,Nonmetropolitan,2008,1.111
+Lung Metastasis,Urbanization,Nonmetropolitan,2009,1.074
+Lung Metastasis,Urbanization,Nonmetropolitan,2010,1.038
+Lung Metastasis,Urbanization,Nonmetropolitan,2011,1.088
+Lung Metastasis,Urbanization,Nonmetropolitan,2012,1.14
+Lung Metastasis,Urbanization,Nonmetropolitan,2013,1.194
+Lung Metastasis,Urbanization,Nonmetropolitan,2014,1.252
+Lung Metastasis,Urbanization,Nonmetropolitan,2015,1.312
+Lung Metastasis,Urbanization,Nonmetropolitan,2016,1.374
+Lung Metastasis,Urbanization,Nonmetropolitan,2017,1.44
+Lung Metastasis,Urbanization,Nonmetropolitan,2018,1.509
+Lung Metastasis,Urbanization,Nonmetropolitan,2019,1.582
+Lung Metastasis,Urbanization,Nonmetropolitan,2020,1.657
+Lung Metastasis,Urbanization,Nonmetropolitan,2021,0.0
+Lung Metastasis,Urbanization,Nonmetropolitan,2022,0.0
+Lung Metastasis,Urbanization,Nonmetropolitan,2023,0.0
